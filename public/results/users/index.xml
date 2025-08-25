@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uživatelé :: SHARE-CZ Projekt v České republice</title>
+    <link>http://localhost:1313/results/users/index.html</link>
+    <description>Source https://share.cerge-ei.cz/user_statistics.htm TODO: check content SHARE statistiky uživatelů Aktuální údaje jsou k disposici na oficiálních stránkách projektu.&#xA;Registrovaní uživatelé Publikace registrovaných uživatelů Publikace registrovaných uživatelů</description>
+    <generator>Hugo</generator>
+    <language>cs</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/results/users/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bioSHARE biomarkery :: SHARE-CZ Projekt v České republice</title>
+    <link>http://localhost:1313/data/bioshare/index.html</link>
+    <description>Sběr biomarkerů v 10. vlně projektu SHARE v České republice Bude doplněno včas.&#xA;Studie akcelerometrie ve vlně 8 v České republice V 8. vlně studie SHARE byly údaje o fyzické aktivitě shromažďovány pomocí akcelerometrů. Dílčí vzorek respondentů panelu byl požádán, aby nosil zařízení (Axivity AX3) po dobu osmi po sobě jdoucích dnů (ve dne i v noci) na horní části stehna.&#xA;Studie SHARE s akcelerometry byla provedena v deseti zemích: Belgie, Česká republika, Dánsko, Francie, Itálie, Německo, Polsko, Slovinsko, Španělsko, Švédsko. Podrobný popis studie je k dispozici ve svazku SHARE Wave 8 Methodology Volume. Data z akcelerometru jsou zpracována pomocí GGIR a výsledná měření jsou k dispozici v modulech gv_accelerometer vlny 8. Poskytované metriky zahrnují vektorovou magnitudu (ENMO), gradient intenzity a míry LXMX. Další datové sady poskytují informace o zrychlení na úrovni epoch (5 sekund) pro každého účastníka.</description>
+    <generator>Hugo</generator>
+    <language>cs</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/data/bioshare/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

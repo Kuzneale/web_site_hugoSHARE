@@ -1,0 +1,85 @@
+=============================================================
+Hugo installation:
+
+sudo snap install --classic go
+i git
+
+sudo snap install hugo
+sudo snap refresh --unhold hugo
+sudo snap connect hugo:removable-media
+sudo snap connect hugo:ssh-keys
+
+=============================================================
+Hugo new site setup with relearn scheme:
+
+hugo new site website 
+cd website
+git init
+git submodule add https://github.com/McShelby/hugo-theme-relearn.git themes/hugo-theme-relearn
+echo "theme = 'hugo-theme-relearn'" >> hugo.toml
+
+git submodule update --recursive
+
+=============================================================
+Hugo new site setup with ananke scheme:
+
+git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
+
+=============================================================
+Modify in layouts, not in release theme itself
+
+---------------------------------------------------
+Logo: in static/images or assets/images
+https://mcshelby.github.io/hugo-theme-relearn/configuration/branding/logo/index.html
+
+/home/radim/Dropbox/work/share/website/layouts/partials/logo.html
+<a id="R-logo" class="R-default" href="{{ partial "permalink.gotmpl" (dict "to" .Site.Home) }}">
+  <img src="images/logo.png">
+</a>
+
+---------------------------------------------------
+Theme variant for SHARE-CZ
+(these have priority over the original themes and files in: themes/hugo-theme-relearn/assets/css
+colors and setup: assets/css/theme-relearn-light-share.css 
+fonts and spaces: assets/css/theme-share.css
+
+
+
+
+
+=============================================================
+Hello, 
+I hope the trip went well!
+
+I have made the hugo SHARE website working again. 
+
+x. it now runs on the uptodate hugo editor and relearn version
+x. it is uploaded at dropbox site to which i will send you a link. you can download it, edit files and upload them back to the same dropbox
+x. the starting page (now the homepage content/_index.md) and the rest will be at the end at the website at share.cerge-ei.cz
+x. the theme specification for SHARE-CZ is at assets/css: theme.css and theme-relearn-light-share.css. Please do not change these before we meet
+x. I did not use layouts/_partials/*.html for head, footer, menu etc. It did not work and there seemed to be not much in them
+x. Overall, I like how it looks and the structure. We will finetune the graphics, specing, colors, etc. after we meet during the summer.
+
+Meanwhile:
+x. I will be adding the content
+x. you can continue developing the abmshare documentation
+x. at the end the plan is to move the abmshare model documentation to start at data/abmshare/_index.md, tedy presneji receno na data/abmshare/_index.en.md, ceska verze manualu nebude.
+x. It would be good to move all the abmshare documentation to these websites. I think we can make the relearn theme working with the current docs structure, perhaps it can open in a new tab and have the T1, T2 menus visible etc. 
+x. all this means that the abmshare documentation at this website will be brief and all the details will be moved to the Google Collab web, do you agree?
+x. basically, i would just write at the data/abmshare/_index.en.md a short description of the model (maybe with some submenues or not) and then provide a link to the Collab web where the detailed docs will be located with all the practical info
+
+I am out of Prague but we can zoom this week to see what can be done. We need to move forward.
+You should receive 20k CZK extra bonus but I am not sure when exactly it will come.
+
+R
+
+
+The RELEARN theme has a good manual, see here
+https://mcshelby.github.io/hugo-theme-relearn/configuration/customization/partials/index.html
+
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================

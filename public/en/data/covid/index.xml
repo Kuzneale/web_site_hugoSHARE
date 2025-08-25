@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SHARE Covid-19 :: SHARE-CZ Project in the Czech Republic</title>
+    <link>http://localhost:1313/en/data/covid/index.html</link>
+    <description>SHARE-Covid19 CATI Project SHARE collected two special surveys on Covid19 both in CATI mode. The first survey was collected in June-August 2020, the second CATI was collected in summer 2021.&#xA;In addition, the Czech Republic added an additional CATI-CZ Covid19 survey in October-December 2020.&#xA;All three surveys have a panel structure with repeated questions to capture changes in our respondents lives during the pandemic. All CATI Covid19 data have been linked to main longitudinal SHARE data.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/en/data/covid/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

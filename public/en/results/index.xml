@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Results :: SHARE-CZ Project in the Czech Republic</title>
+    <link>http://localhost:1313/en/results/index.html</link>
+    <description>This is a new chapter.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/en/results/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Users</title>
+      <link>http://localhost:1313/en/results/users/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
+      <guid>http://localhost:1313/en/results/users/index.html</guid>
+      <description>SHARE User Statistics Up-to-date information is on the official website.&#xA;Registered Users Registered Users Publications Registered Users Publications Detailed Table</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/en/results/publications/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
+      <guid>http://localhost:1313/en/results/publications/index.html</guid>
+      <description>Publications A complete database of all research publications, books, chapters in books, policy papers, First Result Books, working papers, and other publications based on collected SHARE data can be found at https://share-eric.eu/.&#xA;Publications of registered users Selected results in English Selected research results in English are available here.&#xA;Newsletters Newsletters in Czech and English.&#xA;If you published a work based on SHARE data, please inform the coordinator following this link.</description>
+    </item>
+    <item>
+      <title>Results</title>
+      <link>http://localhost:1313/en/results/results/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
+      <guid>http://localhost:1313/en/results/results/index.html</guid>
+      <description>Selected Results and Presentations Selected research results and presentations in English are available here.&#xA;Selected presentations of SHARE project in Czech are here.&#xA;Newsletters in Czech and English.&#xA;Presentations in Czech and English Language Lecture Older workers in the labor market: Lessons for a pension reform (2021) Filip Pertold (pdf)&#xA;Lecture Multigenerational Educational Mobility in Europe (2022) Miroslava Federicova and Filip Pertold (pdf)&#xA;Lecture Teachers Turnover (2022) Miroslava Federicova (pdf)&#xA;Lecture Older workers in the labor market: Lessons for a pension reform (2021) Filip Pertold (pdf)</description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/en/results/newsletter/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
+      <guid>http://localhost:1313/en/results/newsletter/index.html</guid>
+      <description>SHARE Newsletter **SHARE-ERIC publishes its biannual English newsletter that can be found here.&#xA;**&#xA;The Czech newsletter is available here.</description>
+    </item>
+  </channel>
+</rss>

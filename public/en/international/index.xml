@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>International :: SHARE-CZ Project in the Czech Republic</title>
+    <link>http://localhost:1313/en/international/index.html</link>
+    <description>Links The main coordinator of the SHARE ERIC project&#xA;SHARE Institute Berlin&#xA;Chausseestrasse 111&#xA;10116 Berlin&#xA;Germany&#xA;https://share-eric.eu&#xA;Harmonized Data g2aging - Gateway to Global Aging Data&#xA;RAND - RAND Corporation&#xA;SHARE sister studies HRS - Health and Retirement Study ELSA - English Longitudinal Study of Ageing TILDA - The Irish Longitudinal Study on Ageing CHARLS - Chinese Health and Retirement Survey ELSI-Brasil - Estudo Longitudinal de Saúde do Idoso JSTAR - The Japanese Study of Aging and Retirement KLoSA - The Korean Longitudinal Study of Aging LASI - The Longitudinal Aging Study in India MHAS - Mexican Health and Aging Study</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/en/international/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

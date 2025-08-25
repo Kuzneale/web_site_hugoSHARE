@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interactive :: SHARE-CZ Project in the Czech Republic</title>
+    <link>http://localhost:1313/en/data_special/interactive/index.html</link>
+    <description>Interactive Data and Documentation Tool&#xA;The SHARE Data &amp; Documentation Tool is a web application developed by CentERdata (Institute for Data Collection and Research) in collaboration with SHARE Central at the Munich Center for the Economics of Aging (MEA). For researchers, the tool serves as a fast, customizable, and user-friendly web interface for browsing and searching the SHARE metadata.&#xA;One of the key features of the system is the ability to generate codebooks for all currently available waves and modules of the SHARE project in PDF format. This allows researchers to get an initial overview of the dataset’s content and case numbers without needing to download the data.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/en/data_special/interactive/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

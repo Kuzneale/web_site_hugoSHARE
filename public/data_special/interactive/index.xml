@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interaktivní databáze :: SHARE-CZ Projekt v České republice</title>
+    <link>http://localhost:1313/data_special/interactive/index.html</link>
+    <description>Source https://share.cerge-ei.cz/datatool.htm TODO: done Interaktivní nástroj pro data a dokumentaci&#xA;Nástroj SHARE Data &amp; Documentation Tool je webová aplikace vyvinutá organizací CentERdata (Institut pro sběr a analýzu dat) ve spolupráci s centrálním týmem SHARE na Munich Center for the Economics of Aging (MEA). Tento nástroj je určen zejména pro výzkumníky jako rychlé, přizpůsobitelné a uživatelsky přívětivé rozhraní pro prohlížení a vyhledávání v datech (a metadatech) projektu SHARE.&#xA;Jednou z hlavních funkcí je možnost vygenerovat codebooky (datové dokumentace) pro všechny aktuálně dostupné vlny a moduly projektu SHARE ve formátu PDF. To výzkumníkům umožňuje získat první přehled o obsahu dat a počtech případů bez nutnosti stahovat samotná data.</description>
+    <generator>Hugo</generator>
+    <language>cs</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/data_special/interactive/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

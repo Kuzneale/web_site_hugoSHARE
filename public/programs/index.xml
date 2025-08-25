@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programy :: SHARE-CZ Projekt v České republice</title>
+    <link>http://localhost:1313/programs/index.html</link>
+    <description>Kódy programů STATA, SPSS a R pro práci s daty SHARE Stahování a adresáře Všechny kódy jsou ke stažení s příponou .txt, aby nedocházelo k chybám při stahování.&#xA;Uložte je s odpovídající koncovkou: .do (STATA), .R (R), .sps (SPSS).&#xA;Ve každém kódu musíte upravit cestu k adresáři s daty dle vašeho umístění.&#xA;Původní příklad:&#xA;global datadir &#34;d:\work\sharew5_rel1-0-0&#34; Vlastní umístění:&#xA;global datadir &#34;c:\soubory\SHARE\moje_data&#34; Výukové materiály Prezentace Mendelovy univerzity (PDF) SPSS syntax Mendelovy univerzity STATA easySHARE Program pro easySHARE Podrobný návod (working paper, PDF) Codebooky dle vln Vlna 2 Vlna 3 Vlna 4 Vlna 5 Vlna 6 Vlna 7 Vlna 8 (CATI1) Spojování modulů a vln Vlna 1 Vlna 2 Vlna 3 Vlna 4 Vlna 5 Vlna 6 (CZ) Vlna 7 (CZ) Vlna 8 (CATI1, CZ) Spojení vln 1-5 (všechny země) Spojení vln 2-7 (CZ) STATA kódy pro článek “Teacher Turnover” Miroslava Federičová, CERGE-EI</description>
+    <generator>Hugo</generator>
+    <language>cs</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/programs/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

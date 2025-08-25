@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data SHARE :: SHARE-CZ Projekt v České republice</title>
+    <link>http://localhost:1313/data/data_overview/index.html</link>
+    <description>Source https://share.cerge-ei.cz/data_overview.htm TODO: done Přehled dat SHARE Aktuální veřejná verze dat: SHARE Release 9.0.0&#xA;Všechny datasety s DOI registrací jsou dostupné zde:&#xA;🔗 https://share-eric.eu/data/data-documentation&#xA;Přehled vln sběru SHARE je panelové šetření, které probíhá každé dva roky od roku 2004.&#xA;Česká republika se zapojila od druhé vlny v roce 2006.&#xA;Přehled vzorku respondentů Níže je vizualizace počtu respondentů v jednotlivých vlnách.&#xA;Oranžové sloupce: noví (baseline) respondenti Černé sloupce: opakovaní (paneloví) respondenti</description>
+    <generator>Hugo</generator>
+    <language>cs</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/data/data_overview/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

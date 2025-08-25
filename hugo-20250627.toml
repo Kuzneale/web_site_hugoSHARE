@@ -1,0 +1,58 @@
+baseURL = "http://share.cerge-ei.cz/"
+languageCode = 'cs'
+defaultContentLanguage = "cs"
+
+title = 'SHARE-CZ Project'
+theme = 'hugo-theme-relearn'
+
+
+[params]
+  #themeVariant = "mine"
+  showVisitedLinks = true
+
+  # General
+  disableAssetsBusting = false
+  disableGeneratorVersion = false
+  disableRandomIds = false
+
+  # Multilanguage content.
+  additionalContentLanguage = [ "en" ]
+
+  # Topbar
+  disableToc = false
+  disableBreadcrumb = false
+  disableNextPrev = false
+  editURL = "http://share.cerge-ei.cz/"
+
+  # Menu 
+  disableSearch = false
+  disableLandingPageButton = false
+  ordersectionsby = 'weight'
+  alwaysopen = ""
+  collapsibleMenu = false
+  disableShortcutsTitle = false
+  disableLanguageSwitchingButton = false
+
+  # Hidden pages
+  disableSearchHiddenPages = false
+  disableSeoHiddenPages = false
+  disableTagHiddenPages = false
+
+  # Content
+  titleSeparator = '::'
+  breadcrumbSeparator = ">"
+  disableRootBreadcrumb = false
+  disableTermBreadcrumbs = false
+
+  # Highlight
+  disableInlineCopyToClipBoard = false
+  disableHoverBlockCopyToClipBoard = false
+  highlightWrap = true
+
+  # Logo changed in theme
+  # themes/hugo-theme-learn/layouts/partials/logo.html 
+
+[markup]
+   [markup.goldmark]
+      [markup.goldmark.renderer]
+         unsafe = true

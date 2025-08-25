@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>National module :: SHARE-CZ Project in the Czech Republic</title>
+    <link>http://localhost:1313/en/data_special/national_module/index.html</link>
+    <description>National Self-Completion Questionnaire (Drop-off) in the 9th Wave of Data Collection&#xA;The SHARE project is fully harmonized with similar studies in the U.S. (HRS), the UK (ELSA), and new initiatives in China, Japan, India, and other countries. As part of the main questionnaire, each country also includes a national self-completion questionnaire, the so-called drop-off, which allows countries to include their own questions. These do not have to be harmonized with other countries and offer a unique opportunity to address locally relevant issues or carry out field experiments that may not be meaningful in other contexts.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/en/data_special/national_module/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

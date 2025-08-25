@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAQ SHARE :: SHARE-CZ Project in the Czech Republic</title>
+    <link>http://localhost:1313/en/faq/index.html</link>
+    <description>Frequently Asked Questions about the SHARE Project and Data Detailed answers to frequently asked questions can be found in English on the official SHARE website.&#xA;Below is a summary of the most important general information.&#xA;1. What is SHARE? SHARE (Survey of Health, Ageing and Retirement in Europe) is an international, multidisciplinary longitudinal database (i.e., it tracks the same individuals over time, every two years). It provides micro-level data on the health, socio-economic status, and family and social networks of more than 140,000 individuals aged 50+.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/en/faq/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/data_special/national_module/dropoff-offer/index.html</link>
+    <description>Národní písemný dotazník (dropoff) v 9. vlně sběru dat&#xA;Projekt SHARE je plně harmonizován se sběry dat v USA (HRS), Anglii (ELSA), a novými projekty v Číně, Japonsku, Indii a dalších zemích. Součástí hlavního dotazníku je také písemný dotazník, tzv. dropoff, ve kterém jednotlivé země mají možnost klást otázky, které nemusí být harmonizovány s ostatními zeměmi a poskytují tak možnost ptát se na důležitá lokální témata nebo provádět field experiments, které by neměly smysl pro ostatní země. Od roku 2011 máme možnost díky podpoře Ministerstva školství, mládeže a sportu ČR a ve spolupráci s Výzkumným ústavem práce a sociálních věcí MPSV realizovat tento dotazník již poosmé. V ČR jsme tento národní písemný dotazník nabídli externím výzkumníkům v posledních vlnách sběru dat.</description>
+    <generator>Hugo</generator>
+    <language>cs</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/data_special/national_module/dropoff-offer/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SHARE Data :: SHARE-CZ Project in the Czech Republic</title>
+    <link>http://localhost:1313/en/data/data_overview/index.html</link>
+    <description>Overview of SHARE Data The current public data release is SHARE Release 9.0.0&#xA;All datasets with DOI registration are available at:&#xA;🔗 https://share-eric.eu/data/data-documentation&#xA;Overview of Survey Waves SHARE is a panel study conducted every two years since 2004.&#xA;The Czech Republic has participated since the second wave in 2006.&#xA;Overview of Respondent Sample Below is a visualization of respondent numbers by wave.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/en/data/data_overview/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

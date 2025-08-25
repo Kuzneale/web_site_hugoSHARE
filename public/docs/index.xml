@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dokumentace :: SHARE-CZ Projekt v České republice</title>
+    <link>http://localhost:1313/docs/index.html</link>
+    <description>Dokumentace projektu SHARE Kompletní dokumentaci k projektu SHARE ve všech zapojených zemích naleznete v angličtině na oficiálních stránkách:&#xA;🔗 https://share-eric.eu&#xA;Datová dokumentace: https://share-eric.eu/data/&#xA;🌐 Mezinárodní portály Gateway to Global Data on Ageing (USC) Přístup k mezinárodním studiím stárnutí (USA, Anglie, Irsko, Čína, Indie, Japonsko aj.) s interaktivním prohlížečem a základními výpočty:&#xA;🔗 https://g2aging.org/&#xA;Internetový prohlížeč SHARE dat Interaktivní prohlížeč dat z vln 1–8:&#xA;🔗 https://www.share-datadocutool.org&#xA;K čemu dokumentace slouží? Každá vlna obsahuje sadu dokumentů: hlavní dotazníky, showcards, drop-off dotazníky, kódové knihy (codebooks) a metodologii.</description>
+    <generator>Hugo</generator>
+    <language>cs</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

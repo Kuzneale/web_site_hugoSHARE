@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>abmSHARE :: SHARE-CZ Project in the Czech Republic</title>
+    <link>http://localhost:1313/en/data/abmshare/index.html</link>
+    <description>Epidemiological Model abmSHARE In collaboration with the Faculty of Biomedical Engineering at CTU and the company DNAi s.r.o., we have developed an agent-based epidemiological model called abmSHARE.&#xA;This model is able to use input data from both the SHARE project, Eurostat, or any external data, at the geographical level corresponding to NUTS2 regions.&#xA;The goal of the model is to simulate the spread and impact of Covid-19 and similar epidemiological scenarios.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/en/data/abmshare/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

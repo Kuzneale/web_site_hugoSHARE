@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact :: SHARE-CZ Project in the Czech Republic</title>
+    <link>http://localhost:1313/en/contact/index.html</link>
+    <description>Contacts and the SHARE Team in the Czech Republic If you need any information, a consultation with the Czech or international SHARE team, help with registration, data download, or any other support, please do not hesitate to contact us. We thank you in advance for your interest and collaboration.&#xA;SHARE Coordinator in the Czech Republic Radim Boháček, Ph.D.&#xA;SHARE-CZ&#xA;Economics Institute of the Czech Academy of Sciences&#xA;Politických vězňů 7&#xA;111 21 Prague 1&#xA;📞 +420 224 005 194, +420 775 379 336&#xA;📧 radim.bohacek@cerge-ei.cz</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/en/contact/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

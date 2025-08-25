@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bioSHARE biomarkers :: SHARE-CZ Project in the Czech Republic</title>
+    <link>http://localhost:1313/en/data/bioshare/index.html</link>
+    <description>Collection of Biomarkers in Wave 10 in the Czech Republic To be specified later.&#xA;Accelerometer Study in Wave 8 in the Czech Republic In SHARE Wave 8, data on physical activity were collected by using accelerometers. A subsample of the panel respondents were asked to wear the device (Axivity AX3) for eight consecutive days (day and night) on their upper thigh.&#xA;The SHARE accelerometer study was conducted in ten countries: Belgium, Czech Republic, Denmark, France, Germany, Italy, Poland, Slovenia, Spain, Sweden. A detailed description of the study is available in the SHARE Wave 8 Methodology Volume. Raw accelerometer data is processed with GGIR and resulting measures are available in the Wave 8 gv_accelerometer modules. Provided metrics include vector magnitude (ENMO), intensity gradient, and LXMX measures. Additional datasets provide information on acceleration on epoch level (5 seconds) for each participant.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/en/data/bioshare/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

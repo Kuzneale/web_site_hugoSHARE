@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publikace :: SHARE-CZ Projekt v České republice</title>
+    <link>http://localhost:1313/results/publications/index.html</link>
+    <description>Source https://share.cerge-ei.cz/publications.htm TODO: check content Publikace Kompletní databáze všech vědeckých publikací, knih, kapitol v knihách, papers, First Result Books, working papers, and jiných publikací založených na datech SHARE jsou na oficiálních stránkách v těchto kategoriích:&#xA;Prosím napište nám o své publikaci na email radim.bohacek@cerge-ei.cz nebo na tento link.&#xA;Prezentace Vybrané prezentace projektu SHARE jsou zde.&#xA;Aktuální Release Guide dat SHARE: ****SHARE Release Guide 9.0.0&#xA;************SHARE Covid19 Survey Release Guide&#xA;************ First Results Books (přehledné výsledky po každé vlně sběru dat) Börsch-Supan, A., J. Bristle, K. Andersen-Ranberg, A. Brugiavini, F. Jusot, H. Litwin, G. Weber (Eds.) (2019). Health and Socio-Economic Status over the Life Course. First Results from SHARE Waves 6 and 7. Berlin: De Gruyter</description>
+    <generator>Hugo</generator>
+    <language>cs</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/results/publications/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

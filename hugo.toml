@@ -1,0 +1,151 @@
+# HUGO THEME RELEARN
+# https://mcshelby.github.io/hugo-theme-relearn/configuration/index.html
+baseURL = "http://share.cerge-ei.cz/"
+defaultContentLanguage = "cs"
+
+title = 'SHARE-CZ Project'
+theme = 'hugo-theme-relearn'
+
+defaultContentLanguageInSubdir = false
+relativeURLs = false # do not enable unless serverless site
+
+[params]
+  # Themes in /website/assets/css/
+  # theme-relearn-light-share.css - Original copies of theme relearn changed customized version for SHARE-CZ 
+  # theme.css - fonts and other graphics 
+  themeVariant = 'relearn-light-share'
+  showVisitedLinks = false
+
+  # General
+  disableAssetsBusting = false
+  disableGeneratorVersion = false
+  disableRandomIds = false
+
+  # Multilanguage content.
+  additionalContentLanguage = [ "en" ]
+
+  # Topbar
+  disableToc = false
+  disableBreadcrumb = false
+  disableNextPrev = false
+  editURL = "http://share.cerge-ei.cz/"
+
+  # Search
+  disableSearch = false
+  searchIndexURL = 'omnisearchindex.js'
+  searchPageURL = 'omnisearch'
+
+  # Menu 
+  disableLandingPageButton = false
+  ordersectionsby = 'weight'
+  alwaysopen = true 
+  collapsibleMenu = true
+  disableShortcutsTitle = true
+  disableLanguageSwitchingButton = false
+
+  # Logo changed in theme website/layouts/partials/logo.html 
+
+  # Hidden pages
+  disableSearchHiddenPages = false
+  disableSeoHiddenPages = true
+  disableTagHiddenPages = false
+
+  # Content
+  titleSeparator = '::'
+  breadcrumbSeparator = ">"
+  disableRootBreadcrumb = true
+  disableTermBreadcrumbs = false
+
+  # Highlight
+  disableInlineCopyToClipBoard = false
+  disableHoverBlockCopyToClipBoard = false
+  highlightWrap = true
+ 
+  # Include
+  include.errorlevel = "error"
+
+  # Images
+  image.errorlevel = "error"
+  imageEffects.border = false
+  imageEffects.lazy = true
+  imageEffects.lightbox = true
+  imageEffects.shadow = false
+
+  # Links
+  link.errorlevel = "error"
+  externalLinkTarget = "_self"
+  disableExplicitIndexURLs = false
+
+  # Mathjax
+  # https://mcshelby.github.io/hugo-theme-relearn/shortcodes/math/index.html
+  # more in markup.goldmark.extenstions
+  math = true
+ 
+  [params.mermaid]
+    mermaidZoom = true
+    mermaidInitialize = "{ \"securityLevel\": \"loose\" }"
+ 
+  [params.openapi]
+    errorlevel = 'error'
+
+  [params.author]
+    name = 'Radim Bohacek'
+    email = 'radim.bohacek@cerge-ei.cz'
+
+  [params.social]
+    facebook_admin = ''
+    twitter = ''
+
+  [outputs]
+    home = ['html', 'rss', 'print']
+    page = ['html', 'rss', 'print']
+    section = ['html', 'rss', 'print']
+
+[languages]
+  [languages.cs]
+    languageName = 'Česká verze'
+    title = "SHARE-CZ Projekt v České republice"
+    landingPageName = '<i class="fa-fw fas fa-home"></i> Domů'
+    weight = 1
+    [languages.cs.menu]
+      [[languages.cs.menu.shortcuts]]
+        name = "<i class='fa-solid fas fa-globe'></i> SHARE-ERIC webstránka"
+        url = 'https://share-eric.eu/'
+        weight = 30
+      [[languages.cs.menu.shortcuts]]
+        identifier = 'hugodoc'
+        name = "<i class='fa-solid fa-layer-group'></i> SHARE Data"
+        url = 'https://share-eric.eu/data/'
+        weight = 40
+
+  [languages.en]
+    languageName = 'English version'
+    title = 'SHARE-CZ Project in the Czech Republic'
+    landingPageName = '<i class="fa-fw fas fa-home"></i> Home'
+    weight = 2
+    [languages.en.menu]
+      [[languages.en.menu.shortcuts]]
+        name = "<i class='fa-solid fas fa-globe'></i> SHARE-ERIC Website"
+        url = 'https://share-eric.eu/'
+        weight = 30
+      [[languages.en.menu.shortcuts]]
+        identifier = 'hugodoc'
+        name = "<i class='fa-solid fa-layer-group'></i> SHARE Data"
+        url = 'https://share-eric.eu/data/'
+        weight = 40
+
+
+
+[markup]
+   [markup.goldmark]
+      [markup.goldmark.renderer]
+         unsafe = true
+      [markup.goldmark.extensions]
+        [markup.goldmark.extensions.passthrough]
+          enable = true
+          [markup.goldmark.extensions.passthrough.delimiters]
+            block = [['\[', '\]'], ['$$', '$$']]
+            inline = [['\(', '\)'], ['$', '$']]
+
+
+

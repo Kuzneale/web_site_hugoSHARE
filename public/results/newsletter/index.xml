@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zpravodaj :: SHARE-CZ Projekt v České republice</title>
+    <link>http://localhost:1313/results/newsletter/index.html</link>
+    <description>Source https://share.cerge-ei.cz/newsletter.htm TODO: check content **SHARE-ERIC vydává zpravodaj v anglickém jazyce, který je dostupný zde.&#xA;**&#xA;Zpravodaj SHARE-CZ 2021-1&#xA;**Zpravodaj SHARE-CZ 2020-3&#xA;****Zpravodaj SHARE-CZ 2020-2&#xA;Zpravodaj SHARE-CZ 2020-1&#xA;**&#xA;**Zpravodaj SHARE-CZ 2019-3&#xA;Zpravodaj SHARE-CZ 2019-2&#xA;****Zpravodaj SHARE-CZ 2019-1&#xA;**&#xA;**Zpravodaj SHARE-CZ 2018-3&#xA;Zpravodaj SHARE-CZ 2018-2&#xA;****Zpravodaj SHARE-CZ 2018-1&#xA;**&#xA;**Zpravodaj SHARE-CZ 2017-3&#xA;Zpravodaj SHARE-CZ 2017-2&#xA;****Zpravodaj SHARE-CZ 2017-1&#xA;**&#xA;**Zpravodaj SHARE-CZ 2016-3&#xA;Zpravodaj SHARE-CZ 2016-2&#xA;****Zpravodaj SHARE-CZ 2016-1&#xA;**&#xA;**Zpravodaj SHARE-CZ 2015-2&#xA;****Zpravodaj SHARE-CZ 2015-1&#xA;**</description>
+    <generator>Hugo</generator>
+    <language>cs</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/results/newsletter/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

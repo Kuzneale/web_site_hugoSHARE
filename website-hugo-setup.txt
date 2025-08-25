@@ -1,0 +1,35 @@
+=============================================================
+Hugo installation:
+
+sudo snap install --classic go
+i git
+
+sudo snap install hugo
+sudo snap refresh --unhold hugo
+sudo snap connect hugo:removable-media
+sudo snap connect hugo:ssh-keys
+
+=============================================================
+Hugo new site setup with relearn scheme:
+
+hugo new site website 
+cd website
+git init
+git submodule add https://github.com/McShelby/hugo-theme-relearn.git themes/hugo-theme-relearn
+echo "theme = 'hugo-theme-relearn'" >> hugo.toml
+
+git submodule update --recursive
+
+=============================================================
+Hugo new site setup with ananke scheme:
+
+git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
+
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================

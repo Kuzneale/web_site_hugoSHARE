@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Novinky :: SHARE-CZ Projekt v České republice</title>
+    <link>http://localhost:1313/news/index.html</link>
+    <description>Sběr dat 10. vlny projektu SHARE V říjnu 2024 začal sběr dat 10. vlny projektu SHARE-ERIC v České republice pokračuje až do března 2025. Součástí této vlny je unikátní projekt neuroSHARE, který připravujeme ve spolupráci s výzkumníky z 1. lékařské fakulty Univerzity Karlovy v Praze a s ČVUT. Cílem projektu je včasná detekce symptomů Parkinsonovy a Alzheimerovy choroby pomocí jednoduchého testu řeči, spánku a čichu. Sběr dat provádí v terénu agentura SCaC. Předem děkujeme všem respondentům a tazatelům za jejich spolupráci. Více informací naleznete na stránkách agentury SCaC.</description>
+    <generator>Hugo</generator>
+    <language>cs</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

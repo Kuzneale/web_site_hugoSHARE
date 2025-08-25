@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Special Datasets :: SHARE-CZ Project in the Czech Republic</title>
+    <link>http://localhost:1313/en/data_special/index.html</link>
+    <description>Specials</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/en/data_special/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>National module</title>
+      <link>http://localhost:1313/en/data_special/national_module/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
+      <guid>http://localhost:1313/en/data_special/national_module/index.html</guid>
+      <description>National Self-Completion Questionnaire (Drop-off) in the 9th Wave of Data Collection&#xA;The SHARE project is fully harmonized with similar studies in the U.S. (HRS), the UK (ELSA), and new initiatives in China, Japan, India, and other countries. As part of the main questionnaire, each country also includes a national self-completion questionnaire, the so-called drop-off, which allows countries to include their own questions. These do not have to be harmonized with other countries and offer a unique opportunity to address locally relevant issues or carry out field experiments that may not be meaningful in other contexts.</description>
+    </item>
+    <item>
+      <title>SHARELIFE life history</title>
+      <link>http://localhost:1313/en/data_special/sharelife/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
+      <guid>http://localhost:1313/en/data_special/sharelife/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>HCAP cognition data</title>
+      <link>http://localhost:1313/en/data_special/hcap/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
+      <guid>http://localhost:1313/en/data_special/hcap/index.html</guid>
+      <description>Collection of SHARE-HCAP data in Wave 9 in the Czech Republic Harmonized Cognitive Assessment Protocol The project administers in-depth measurement of cognition according to the Harmonized Cognitive Assessment Protocol (HCAP) that has been developed for the HRS-style aging surveys supported by NIA. Using these data, the project will estimate prevalence rates of mild and severe cognitive impairment in the SHARE countries; compare these with HRS and other participants in the HCAP studies; and exploit the international variation of the SHARE plus SHARE-HCAP data in order to identify which interactions of biomedical and socioeconomic conditions over the life course affect cognition later in life.</description>
+    </item>
+    <item>
+      <title>geoSHARE</title>
+      <link>http://localhost:1313/en/data_special/geoshare/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
+      <guid>http://localhost:1313/en/data_special/geoshare/index.html</guid>
+      <description>geoSHARE Data We are currently processing geographic information data from all respondents in the SHARE project, including life history data, at the NUTS2 and NUTS3 regional levels. The data will be available under restricted access in compliance with GDPR data protection regulations.</description>
+    </item>
+    <item>
+      <title>neuroSHARE</title>
+      <link>http://localhost:1313/en/data_special/neuroshare/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
+      <guid>http://localhost:1313/en/data_special/neuroshare/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>bioSHARE biomarkers</title>
+      <link>http://localhost:1313/en/data_special/bioshare/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
+      <guid>http://localhost:1313/en/data_special/bioshare/index.html</guid>
+      <description>Collection of Biomarkers in Wave 10 in the Czech Republic To be specified later.&#xA;Accelerometer Study in Wave 8 in the Czech Republic In SHARE Wave 8, data on physical activity were collected by using accelerometers. A subsample of the panel respondents were asked to wear the device (Axivity AX3) for eight consecutive days (day and night) on their upper thigh.&#xA;The SHARE accelerometer study was conducted in ten countries: Belgium, Czech Republic, Denmark, France, Germany, Italy, Poland, Slovenia, Spain, Sweden. A detailed description of the study is available in the SHARE Wave 8 Methodology Volume. Raw accelerometer data is processed with GGIR and resulting measures are available in the Wave 8 gv_accelerometer modules. Provided metrics include vector magnitude (ENMO), intensity gradient, and LXMX measures. Additional datasets provide information on acceleration on epoch level (5 seconds) for each participant.</description>
+    </item>
+    <item>
+      <title>easySHARE</title>
+      <link>http://localhost:1313/en/data_special/easyshare/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
+      <guid>http://localhost:1313/en/data_special/easyshare/index.html</guid>
+      <description>easySHARE (version 9.0.0)&#xA;easySHARE is a simplified version of the SHARE database, designed primarily for researchers and students who are just starting with the analysis of complex longitudinal data.&#xA;While the main SHARE database is split into dozens of files by wave, easySHARE compiles information on all respondents across all countries and waves into a single dataset.&#xA;The data structure is much more user-friendly – information on respondents and their households is merged across all waves. Missing values are clearly classified and the dataset includes many derived variables (e.g., education level according to ISCED, health index, functional limitations, demographic and economic indicators).</description>
+    </item>
+    <item>
+      <title>abmSHARE Epidemiology</title>
+      <link>http://localhost:1313/en/data_special/abmshare/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
+      <guid>http://localhost:1313/en/data_special/abmshare/index.html</guid>
+      <description>Epidemiological Model abmSHARE In collaboration with the Faculty of Biomedical Engineering at CTU and the company DNAi s.r.o., we are developing an agent-based epidemiological model called abmSHARE.&#xA;This model will be able to use input data from both the SHARE project and Eurostat, at the geographical level corresponding to NUTS2 regions.&#xA;The goal of the model is to simulate the spread and impact of Covid-19, using data from the SPLASH database, which contains information on policy measures implemented during the pandemic.</description>
+    </item>
+    <item>
+      <title>SHARE Covid-19</title>
+      <link>http://localhost:1313/en/data_special/covid/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
+      <guid>http://localhost:1313/en/data_special/covid/index.html</guid>
+      <description>SHARE-Covid19 CATI Project&#xA;SHARE collected two special surveys on Covid19 both in CATI mode. The first survey was collected in June-August 2020, the second CATI was collected in summer 2021.&#xA;In addition, the Czech Republic added an additional CATI-CZ Covid19 survey in October-December 2020.&#xA;All three surveys have a panel structure with repeated questions to capture changes in our respondents lives during the pandemic. All CATI Covid19 data have been linked to main longitudinal SHARE data.</description>
+    </item>
+    <item>
+      <title>Interactive</title>
+      <link>http://localhost:1313/en/data_special/interactive/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
+      <guid>http://localhost:1313/en/data_special/interactive/index.html</guid>
+      <description>Interactive Data and Documentation Tool&#xA;The SHARE Data &amp; Documentation Tool is a web application developed by CentERdata (Institute for Data Collection and Research) in collaboration with SHARE Central at the Munich Center for the Economics of Aging (MEA). For researchers, the tool serves as a fast, customizable, and user-friendly web interface for browsing and searching the SHARE metadata.&#xA;One of the key features of the system is the ability to generate codebooks for all currently available waves and modules of the SHARE project in PDF format. This allows researchers to get an initial overview of the dataset’s content and case numbers without needing to download the data.</description>
+    </item>
+    <item>
+      <title>SPLASH</title>
+      <link>http://localhost:1313/en/data_special/splash/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
+      <guid>http://localhost:1313/en/data_special/splash/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+  </channel>
+</rss>

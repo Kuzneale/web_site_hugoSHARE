@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HCAP cognition data :: SHARE-CZ Project in the Czech Republic</title>
+    <link>http://localhost:1313/en/data/hcap/index.html</link>
+    <description>Harmonized Cognitive Assessment Protocol The project administers in-depth measurement of cognition according to the Harmonized Cognitive Assessment Protocol (HCAP) that has been developed for the HRS-style aging surveys supported by NIA. Using these data, the project will estimate prevalence rates of mild and severe cognitive impairment in the SHARE countries; compare these with HRS and other participants in the HCAP studies; and exploit the international variation of the SHARE plus SHARE-HCAP data in order to identify which interactions of biomedical and socioeconomic conditions over the life course affect cognition later in life.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/en/data/hcap/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

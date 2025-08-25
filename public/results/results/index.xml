@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Výsledky :: SHARE-CZ Projekt v České republice</title>
+    <link>http://localhost:1313/results/results/index.html</link>
+    <description>Source https://share.cerge-ei.cz/selected_results.htm TODO: check content Vybrané výsledky a prezentace Kompletní databáze všech vědeckých publikací, knih, kapitol v knihách, policy papers, First Result Books, working papers, and jiných publikací založených na datech SHARE je na oficiálních stránkách www.share-eric.eu.&#xA;Statistiky uživatelů a publikací jsou zde.&#xA;Zpravodaje SHARE v češtině and angličtině.&#xA;Prezentace Přednáška Demografický vývoj, důchody a péče o seniory (2022) Filip Pertold (pdf)&#xA;Přednáška Multi-mezigenerační mobita ve vzdělání v Evropě (2022) Miroslava Federicova a Filip Pertold (pdf)&#xA;Přednáška Odchod učitelů a jak mu předcházet (2022) Miroslava Federicova (pdf)</description>
+    <generator>Hugo</generator>
+    <language>cs</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/results/results/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

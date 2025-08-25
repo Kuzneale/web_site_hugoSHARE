@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Results :: SHARE-CZ Project in the Czech Republic</title>
+    <link>http://localhost:1313/en/results/results/index.html</link>
+    <description>Selected Results and Presentations Selected research results and presentations in English are available here.&#xA;Selected presentations of SHARE project in Czech are here.&#xA;Newsletters in Czech and English.&#xA;Presentations in Czech and English Language Lecture Older workers in the labor market: Lessons for a pension reform (2021) Filip Pertold (pdf)&#xA;Lecture Multigenerational Educational Mobility in Europe (2022) Miroslava Federicova and Filip Pertold (pdf)&#xA;Lecture Teachers Turnover (2022) Miroslava Federicova (pdf)&#xA;Lecture Older workers in the labor market: Lessons for a pension reform (2021) Filip Pertold (pdf)</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/en/results/results/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

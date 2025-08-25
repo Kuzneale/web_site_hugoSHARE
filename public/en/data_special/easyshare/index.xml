@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>easySHARE :: SHARE-CZ Project in the Czech Republic</title>
+    <link>http://localhost:1313/en/data_special/easyshare/index.html</link>
+    <description>easySHARE (version 9.0.0)&#xA;easySHARE is a simplified version of the SHARE database, designed primarily for researchers and students who are just starting with the analysis of complex longitudinal data.&#xA;While the main SHARE database is split into dozens of files by wave, easySHARE compiles information on all respondents across all countries and waves into a single dataset.&#xA;The data structure is much more user-friendly – information on respondents and their households is merged across all waves. Missing values are clearly classified and the dataset includes many derived variables (e.g., education level according to ISCED, health index, functional limitations, demographic and economic indicators).</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/en/data_special/easyshare/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

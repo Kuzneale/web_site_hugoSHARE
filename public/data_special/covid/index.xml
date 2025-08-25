@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SHARE Covid-19 :: SHARE-CZ Projekt v České republice</title>
+    <link>http://localhost:1313/data_special/covid/index.html</link>
+    <description>Source https://share.cerge-ei.cz/SHARE-Covid19.htm TODO: done Projekt SHARE-Covid19 SHARE sbírá dva speciální sběry dat na téma Covid19, oba v telefonním CATI módu. První sběr dat se uskutečnil v červnu až srpnu 2020, druhý CATI se uskutečnil v létě 2021.&#xA;Navíc v České republice se realizoval sběr dat CATI-CZ Covid19 v říjnu až prosinci 2020.&#xA;Všechny tři sběry dat mají panelovou strukturu s opakovanými otázkami pro zachycení změn v životech našich respondentů během pandemie. Všechna CATI Covid19 data jsou napojena na hlavní longitudinální data projektu SHARE.</description>
+    <generator>Hugo</generator>
+    <language>cs</language>
+    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
+    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
+    <atom:link href="http://localhost:1313/data_special/covid/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
