@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dotazníky :: SHARE-CZ Projekt v České republice</title>
-    <link>http://localhost:1313/data/questionnaires/index.html</link>
-    <description>Dotazníky projektu SHARE Harmonizované dotazníky Kompletní přehled harmonizovaných dotazníků (CAPI coverscreen, hlavní CAPI dotazník, Showcards, Vignettes, End-of-life dotazník) pro všechny zapojené země a ve všech jazykových verzích naleznete na:&#xA;🔗 oficiálních stránkách projektu&#xA;Codebooky pro Českou republiku Vlna 2 Vlna 3 Vlna 4 Vlna 5 Vlna 6 Vlna 7 Vlna 8 STATA do-files pro codebooky jsou dostupné ke stažení zde&#xA;Speciální dotazníky SHARE v České republice COVID-19 dotazníky CATI1 – jaro 2020: CZ | EN CATI-CZ – podzim 2020: CZ | EN CATI2 – jaro 2021: CZ / EN (v přípravě) Národní písemné dotazníky (Drop-off) v ČR Vlna 5 A (v důchodu): CZ | EN B (není v důchodu): CZ | EN Vlna 6 CZ | EN Vlna 7 A (v důchodu): CZ | EN B (není v důchodu): CZ | EN Vlna 8 CZ | EN Vlna 9 Info 0: CZ | EN Info 1: CZ | EN Codebooky k národním dotazníkům Vlna 5: Codebook drop-off Vlna 6: Codebook drop-off Vlna 7: Codebook drop-off 🔧 STATA do-files k těmto codebookům jsou dostupné zde</description>
-    <generator>Hugo</generator>
-    <language>cs</language>
-    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
-    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
-    <atom:link href="http://localhost:1313/data/questionnaires/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dotazníky :: SHARE-CZ Projekt v České republice</title><link>http://share.cerge-ei.cz/data/questionnaires/index.html</link><description>Dotazníky projektu SHARE Harmonizované dotazníky Kompletní přehled harmonizovaných dotazníků (CAPI coverscreen, hlavní CAPI dotazník, Showcards, Vignettes, End-of-life dotazník) pro všechny zapojené země a ve všech jazykových verzích naleznete na:
+🔗 oficiálních stránkách projektu
+Codebooky pro Českou republiku Vlna 2 Vlna 3 Vlna 4 Vlna 5 Vlna 6 Vlna 7 Vlna 8 STATA do-files pro codebooky jsou dostupné ke stažení zde
+Speciální dotazníky SHARE v České republice COVID-19 dotazníky CATI1 – jaro 2020: CZ | EN CATI-CZ – podzim 2020: CZ | EN CATI2 – jaro 2021: CZ / EN (v přípravě) Národní písemné dotazníky (Drop-off) v ČR Vlna 5 A (v důchodu): CZ | EN B (není v důchodu): CZ | EN Vlna 6 CZ | EN Vlna 7 A (v důchodu): CZ | EN B (není v důchodu): CZ | EN Vlna 8 CZ | EN Vlna 9 Info 0: CZ | EN Info 1: CZ | EN Codebooky k národním dotazníkům Vlna 5: Codebook drop-off Vlna 6: Codebook drop-off Vlna 7: Codebook drop-off 🔧 STATA do-files k těmto codebookům jsou dostupné zde</description><generator>Hugo</generator><language>cs</language><managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor><webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster><atom:link href="http://share.cerge-ei.cz/data/questionnaires/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

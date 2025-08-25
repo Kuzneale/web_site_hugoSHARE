@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>SPLASH :: SHARE-CZ Projekt v České republice</title>
-    <link>http://localhost:1313/data/splash/index.html</link>
-    <description>Archiv sociální politiky pro SHARE (SPLASH) Archiv sociální politiky pro SHARE (SPLASH) poskytuje potřebné makro a kontextové údaje (např. o politickém, ekonomickém a společenském prostředí), které usnadňují srovnávací analýzy sociální politiky v prostoru a čase s využitím SHARE a dalších zdrojů mikrodat.&#xA;Webové stránky projektu SPLASH jsou dostupné zde.&#xA;Dokumentace projektu je přístupná zde.&#xA;Konkrétně sekce Data poskytuje přístup ke kontextovým kvantitativním ukazatelům založeným na oficiálních statistikách a výsledcích výzkumu. V sekci Policy získají uživatelé přístup ke standardizovaným informacím o změnách politik a jejich právních podkladech v průběhu času; záznamy byly sestaveny z databáze Population and Policy Database (PPD) a databáze Population Europe Resource Finder and Archive (PERFAR), která byla naposledy aktualizována v roce 2016.</description>
-    <generator>Hugo</generator>
-    <language>cs</language>
-    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
-    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
-    <atom:link href="http://localhost:1313/data/splash/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SPLASH :: SHARE-CZ Projekt v České republice</title><link>http://share.cerge-ei.cz/data/splash/index.html</link><description>Archiv sociální politiky pro SHARE (SPLASH) Archiv sociální politiky pro SHARE (SPLASH) poskytuje potřebné makro a kontextové údaje (např. o politickém, ekonomickém a společenském prostředí), které usnadňují srovnávací analýzy sociální politiky v prostoru a čase s využitím SHARE a dalších zdrojů mikrodat.
+Webové stránky projektu SPLASH jsou dostupné zde.
+Dokumentace projektu je přístupná zde.
+Konkrétně sekce Data poskytuje přístup ke kontextovým kvantitativním ukazatelům založeným na oficiálních statistikách a výsledcích výzkumu. V sekci Policy získají uživatelé přístup ke standardizovaným informacím o změnách politik a jejich právních podkladech v průběhu času; záznamy byly sestaveny z databáze Population and Policy Database (PPD) a databáze Population Europe Resource Finder and Archive (PERFAR), která byla naposledy aktualizována v roce 2016.</description><generator>Hugo</generator><language>cs</language><managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor><webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster><atom:link href="http://share.cerge-ei.cz/data/splash/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

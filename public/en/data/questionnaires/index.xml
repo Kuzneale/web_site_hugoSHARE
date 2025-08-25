@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Questionnaires :: SHARE-CZ Project in the Czech Republic</title>
-    <link>http://localhost:1313/en/data/questionnaires/index.html</link>
-    <description>SHARE Project Questionnaires Harmonized Questionnaires A complete overview of harmonized questionnaires (CAPI coverscreen, main CAPI questionnaire, Showcards, Vignettes, End-of-life questionnaire) for all participating countries and in all language versions is available at:&#xA;🔗 official project website&#xA;Codebooks for the Czech Republic Wave 2 Wave 3 Wave 4 Wave 5 Wave 6 Wave 7 Wave 8 STATA do-files for these codebooks can be downloaded here&#xA;Special SHARE Questionnaires in the Czech Republic COVID-19 Questionnaires CATI1 – Spring 2020: CZ | EN CATI-CZ – Autumn 2020: CZ | EN CATI2 – Spring 2021: CZ / EN (in preparation) National Drop-off Questionnaires in the Czech Republic Wave 5 A (retired): CZ | EN B (not retired): CZ | EN Wave 6 CZ | EN Wave 7 A (retired): CZ | EN B (not retired): CZ | EN Wave 8 CZ | EN Wave 9 Info 0: CZ | EN Info 1: CZ | EN Codebooks for National Drop-off Questionnaires Wave 5: Codebook drop-off Wave 6: Codebook drop-off Wave 7: Codebook drop-off STATA do-files for these codebooks are available here</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
-    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
-    <atom:link href="http://localhost:1313/en/data/questionnaires/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Questionnaires :: SHARE-CZ Project in the Czech Republic</title><link>http://share.cerge-ei.cz/en/data/questionnaires/index.html</link><description>SHARE Project Questionnaires Harmonized Questionnaires A complete overview of harmonized questionnaires (CAPI coverscreen, main CAPI questionnaire, Showcards, Vignettes, End-of-life questionnaire) for all participating countries and in all language versions is available at:
+🔗 official project website
+Codebooks for the Czech Republic Wave 2 Wave 3 Wave 4 Wave 5 Wave 6 Wave 7 Wave 8 STATA do-files for these codebooks can be downloaded here
+Special SHARE Questionnaires in the Czech Republic COVID-19 Questionnaires CATI1 – Spring 2020: CZ | EN CATI-CZ – Autumn 2020: CZ | EN CATI2 – Spring 2021: CZ / EN (in preparation) National Drop-off Questionnaires in the Czech Republic Wave 5 A (retired): CZ | EN B (not retired): CZ | EN Wave 6 CZ | EN Wave 7 A (retired): CZ | EN B (not retired): CZ | EN Wave 8 CZ | EN Wave 9 Info 0: CZ | EN Info 1: CZ | EN Codebooks for National Drop-off Questionnaires Wave 5: Codebook drop-off Wave 6: Codebook drop-off Wave 7: Codebook drop-off STATA do-files for these codebooks are available here</description><generator>Hugo</generator><language>en</language><managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor><webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster><atom:link href="http://share.cerge-ei.cz/en/data/questionnaires/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

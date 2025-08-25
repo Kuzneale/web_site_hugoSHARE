@@ -1,76 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>SHARE in the Czech Republic :: SHARE-CZ Project in the Czech Republic</title>
-    <link>http://localhost:1313/en/index.html</link>
-    <description>SHARE in the Czech Republic Welcome to the official website of the SHARE project in the Czech Republic. SHARE is a multi-disciplinary international time-collection database of microdata on health, socioeconomic status and social and family networks of approximately 150,000 individuals (over 530,000 interviews) aged 50+ from all EU countries, Switzerland and Israel.&#xA;All information on the project can be found at its official website at https://share-eric.eu/.&#xA;This English language website has its mirror website in Czech language.</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
-    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>News</title>
-      <link>http://localhost:1313/en/news/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/en/news/index.html</guid>
-      <description>Wave 10 Data Collection of the SHARE project started The 10th wave of SHARE-ERIC data collection has begun in October and will continue till March 2025. In Wave 10 contains an innovative project neuroSHARE focusing on early detection of Parkinson and Alzheimer diseases. The neuroSHARE project is prepared in cooperation with researchers from the First Faculty of Medicine at the Charles University and the Czech Technical University. The project consists of a speech, sleep and smell tests collected immediately after the main interview. We are very thankful to all respondents and interviewers for their cooperation. More information can be found at websites of SCaC survey agency.</description>
-    </item>
-    <item>
-      <title>SHARE Data</title>
-      <link>http://localhost:1313/en/data/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/en/data/index.html</guid>
-      <description>Overview of SHARE Data The current public data release is SHARE Release 9.0.0&#xA;All datasets with DOI registration are available at:&#xA;🔗 https://share-eric.eu/data/data-documentation&#xA;Overview of Survey Waves SHARE is a panel study conducted every two years since 2004.&#xA;The Czech Republic has participated since the second wave in 2006.&#xA;Overview of Respondent Sample Below is a visualization of respondent numbers by wave.</description>
-    </item>
-    <item>
-      <title>International</title>
-      <link>http://localhost:1313/en/international/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/en/international/index.html</guid>
-      <description>Links The main coordinator of the SHARE ERIC project&#xA;SHARE Institute Berlin&#xA;Chausseestrasse 111&#xA;10116 Berlin&#xA;Germany&#xA;https://share-eric.eu&#xA;Harmonized Data g2aging - Gateway to Global Aging Data&#xA;RAND - RAND Corporation&#xA;SHARE sister studies HRS - Health and Retirement Study ELSA - English Longitudinal Study of Ageing TILDA - The Irish Longitudinal Study on Ageing CHARLS - Chinese Health and Retirement Survey ELSI-Brasil - Estudo Longitudinal de Saúde do Idoso JSTAR - The Japanese Study of Aging and Retirement KLoSA - The Korean Longitudinal Study of Aging LASI - The Longitudinal Aging Study in India MHAS - Mexican Health and Aging Study</description>
-    </item>
-    <item>
-      <title>Documentation</title>
-      <link>http://localhost:1313/en/docs/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/en/docs/index.html</guid>
-      <description>SHARE Project Documentation Complete documentation of the SHARE project for all participating countries can be found in English on the official website:&#xA;🔗 https://share-eric.eu&#xA;Data documentation: https://share-eric.eu/data/&#xA;🌐 International Portals Gateway to Global Data on Ageing (USC) Access to international ageing studies (USA, UK, Ireland, China, India, Japan, etc.) with an interactive data explorer and basic calculations:&#xA;🔗 https://g2aging.org/&#xA;SHARE Data Online Explorer Interactive browser of data from waves 1–8:&#xA;🔗 https://www.share-datadocutool.org&#xA;What Is the Documentation For? Each wave includes a set of documents: main questionnaires, showcards, drop-off questionnaires, codebooks, and methodology.</description>
-    </item>
-    <item>
-      <title>Programs</title>
-      <link>http://localhost:1313/en/programs/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/en/programs/index.html</guid>
-      <description>STATA, SPSS and R Program Codes for Working with SHARE Data Downloading and Directory Setup All codes are available for download with the .txt extension to ensure proper downloading.&#xA;Save them with the appropriate extension: .do (STATA), .R (R), .sps (SPSS).&#xA;You must adjust the directory path in each script to match where your data are stored.&#xA;Original example:&#xA;global datadir &#34;d:\work\sharew5_rel1-0-0&#34; Your own directory:&#xA;global datadir &#34;c:\soubory\SHARE\moje_data&#34; Training Materials Mendel University – Presentation (PDF) Mendel University – SPSS Syntax STATA easySHARE Program for easySHARE Detailed guide (working paper, PDF) Codebooks by Wave Vlna 2 Vlna 3 Vlna 4 Vlna 5 Vlna 6 Vlna 7 Vlna 8 (CATI1) Merging Modules and Waves Vlna 1 Vlna 2 Vlna 3 Vlna 4 Vlna 5 Vlna 6 (CZ) Vlna 7 (CZ) Vlna 8 (CATI1, CZ) Spojení vln 1-5 (všechny země) Spojení vln 2-7 (CZ) STATA Code for the Article “Teacher Turnover” Miroslava Federičová, CERGE-EI</description>
-    </item>
-    <item>
-      <title>Results</title>
-      <link>http://localhost:1313/en/results/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/en/results/index.html</guid>
-      <description>This is a new chapter.</description>
-    </item>
-    <item>
-      <title>Respondents</title>
-      <link>http://localhost:1313/en/respondents/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/en/respondents/index.html</guid>
-      <description>SHARE Respondents in the Czech Republic Data Protection &amp; Confidentiality Notice SHARE (Survey of Health, Ageing and Retirement in Europe) is an international scientific study coordinated by the SHARE-ERIC consortium and national partners. In the Czech Republic, the study is implemented by the Czech Academy of Sciences (SHARE-CZ), and fieldwork is conducted by the Prague-based research agency SCaC. All procedures strictly comply with EU and Czech data protection laws.&#xA;The aim of SHARE is to gain a deeper understanding of the lives, health, and social and economic circumstances of individuals aged 50 and above. The collected data supports research and evidence-based policymaking. The Czech SHARE project is funded by the Ministry of Education, Youth and Sports and the European Commission.</description>
-    </item>
-    <item>
-      <title>FAQ SHARE</title>
-      <link>http://localhost:1313/en/faq/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/en/faq/index.html</guid>
-      <description>Frequently Asked Questions about the SHARE Project and Data Detailed answers to frequently asked questions can be found in English on the official SHARE website.&#xA;Below is a summary of the most important general information.&#xA;1. What is SHARE? SHARE (Survey of Health, Ageing and Retirement in Europe) is an international, multidisciplinary longitudinal database (i.e., it tracks the same individuals over time, every two years). It provides micro-level data on the health, socio-economic status, and family and social networks of more than 140,000 individuals aged 50+.</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/en/contact/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/en/contact/index.html</guid>
-      <description>Contacts and the SHARE Team in the Czech Republic If you need any information, a consultation with the Czech or international SHARE team, help with registration, data download, or any other support, please do not hesitate to contact us. We thank you in advance for your interest and collaboration.&#xA;SHARE Coordinator in the Czech Republic Radim Boháček, Ph.D.&#xA;SHARE-CZ&#xA;Economics Institute of the Czech Academy of Sciences&#xA;Politických vězňů 7&#xA;111 21 Prague 1&#xA;📞 +420 224 005 194, +420 775 379 336&#xA;📧 radim.bohacek@cerge-ei.cz</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SHARE in the Czech Republic :: SHARE-CZ Project in the Czech Republic</title><link>http://share.cerge-ei.cz/en/index.html</link><description>SHARE in the Czech Republic Welcome to the official website of the SHARE project in the Czech Republic. SHARE is a multi-disciplinary international time-collection database of microdata on health, socioeconomic status and social and family networks of approximately 150,000 individuals (over 530,000 interviews) aged 50+ from all EU countries, Switzerland and Israel.
+All information on the project can be found at its official website at https://share-eric.eu/.
+This English language website has its mirror website in Czech language.</description><generator>Hugo</generator><language>en</language><managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor><webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster><atom:link href="http://share.cerge-ei.cz/en/index.xml" rel="self" type="application/rss+xml"/><item><title>News</title><link>http://share.cerge-ei.cz/en/news/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/en/news/index.html</guid><description>Wave 10 Data Collection of the SHARE project started The 10th wave of SHARE-ERIC data collection has begun in October and will continue till March 2025. In Wave 10 contains an innovative project neuroSHARE focusing on early detection of Parkinson and Alzheimer diseases. The neuroSHARE project is prepared in cooperation with researchers from the First Faculty of Medicine at the Charles University and the Czech Technical University. The project consists of a speech, sleep and smell tests collected immediately after the main interview. We are very thankful to all respondents and interviewers for their cooperation. More information can be found at websites of SCaC survey agency.</description></item><item><title>SHARE Data</title><link>http://share.cerge-ei.cz/en/data/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/en/data/index.html</guid><description>Overview of SHARE Data The current public data release is SHARE Release 9.0.0
+All datasets with DOI registration are available at:
+🔗 https://share-eric.eu/data/data-documentation
+Overview of Survey Waves SHARE is a panel study conducted every two years since 2004.
+The Czech Republic has participated since the second wave in 2006.
+Overview of Respondent Sample Below is a visualization of respondent numbers by wave.</description></item><item><title>International</title><link>http://share.cerge-ei.cz/en/international/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/en/international/index.html</guid><description>Links The main coordinator of the SHARE ERIC project
+SHARE Institute Berlin
+Chausseestrasse 111
+10116 Berlin
+Germany
+https://share-eric.eu
+Harmonized Data g2aging - Gateway to Global Aging Data
+RAND - RAND Corporation
+SHARE sister studies HRS - Health and Retirement Study ELSA - English Longitudinal Study of Ageing TILDA - The Irish Longitudinal Study on Ageing CHARLS - Chinese Health and Retirement Survey ELSI-Brasil - Estudo Longitudinal de Saúde do Idoso JSTAR - The Japanese Study of Aging and Retirement KLoSA - The Korean Longitudinal Study of Aging LASI - The Longitudinal Aging Study in India MHAS - Mexican Health and Aging Study</description></item><item><title>Documentation</title><link>http://share.cerge-ei.cz/en/docs/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/en/docs/index.html</guid><description>SHARE Project Documentation Complete documentation of the SHARE project for all participating countries can be found in English on the official website:
+🔗 https://share-eric.eu
+Data documentation: https://share-eric.eu/data/
+🌐 International Portals Gateway to Global Data on Ageing (USC) Access to international ageing studies (USA, UK, Ireland, China, India, Japan, etc.) with an interactive data explorer and basic calculations:
+🔗 https://g2aging.org/
+SHARE Data Online Explorer Interactive browser of data from waves 1–8:
+🔗 https://www.share-datadocutool.org
+What Is the Documentation For? Each wave includes a set of documents: main questionnaires, showcards, drop-off questionnaires, codebooks, and methodology.</description></item><item><title>Programs</title><link>http://share.cerge-ei.cz/en/programs/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/en/programs/index.html</guid><description>STATA, SPSS and R Program Codes for Working with SHARE Data Downloading and Directory Setup All codes are available for download with the .txt extension to ensure proper downloading.
+Save them with the appropriate extension: .do (STATA), .R (R), .sps (SPSS).
+You must adjust the directory path in each script to match where your data are stored.
+Original example:
+global datadir "d:\work\sharew5_rel1-0-0" Your own directory:
+global datadir "c:\soubory\SHARE\moje_data" Training Materials Mendel University – Presentation (PDF) Mendel University – SPSS Syntax STATA easySHARE Program for easySHARE Detailed guide (working paper, PDF) Codebooks by Wave Vlna 2 Vlna 3 Vlna 4 Vlna 5 Vlna 6 Vlna 7 Vlna 8 (CATI1) Merging Modules and Waves Vlna 1 Vlna 2 Vlna 3 Vlna 4 Vlna 5 Vlna 6 (CZ) Vlna 7 (CZ) Vlna 8 (CATI1, CZ) Spojení vln 1-5 (všechny země) Spojení vln 2-7 (CZ) STATA Code for the Article “Teacher Turnover” Miroslava Federičová, CERGE-EI</description></item><item><title>Results</title><link>http://share.cerge-ei.cz/en/results/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/en/results/index.html</guid><description>This is a new chapter.</description></item><item><title>Respondents</title><link>http://share.cerge-ei.cz/en/respondents/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/en/respondents/index.html</guid><description>SHARE Respondents in the Czech Republic Data Protection &amp; Confidentiality Notice SHARE (Survey of Health, Ageing and Retirement in Europe) is an international scientific study coordinated by the SHARE-ERIC consortium and national partners. In the Czech Republic, the study is implemented by the Czech Academy of Sciences (SHARE-CZ), and fieldwork is conducted by the Prague-based research agency SCaC. All procedures strictly comply with EU and Czech data protection laws.
+The aim of SHARE is to gain a deeper understanding of the lives, health, and social and economic circumstances of individuals aged 50 and above. The collected data supports research and evidence-based policymaking. The Czech SHARE project is funded by the Ministry of Education, Youth and Sports and the European Commission.</description></item><item><title>FAQ SHARE</title><link>http://share.cerge-ei.cz/en/faq/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/en/faq/index.html</guid><description>Frequently Asked Questions about the SHARE Project and Data Detailed answers to frequently asked questions can be found in English on the official SHARE website.
+Below is a summary of the most important general information.
+1. What is SHARE? SHARE (Survey of Health, Ageing and Retirement in Europe) is an international, multidisciplinary longitudinal database (i.e., it tracks the same individuals over time, every two years). It provides micro-level data on the health, socio-economic status, and family and social networks of more than 140,000 individuals aged 50+.</description></item><item><title>Contact</title><link>http://share.cerge-ei.cz/en/contact/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/en/contact/index.html</guid><description>Contacts and the SHARE Team in the Czech Republic If you need any information, a consultation with the Czech or international SHARE team, help with registration, data download, or any other support, please do not hesitate to contact us. We thank you in advance for your interest and collaboration.
+SHARE Coordinator in the Czech Republic Radim Boháček, Ph.D.
+SHARE-CZ
+Economics Institute of the Czech Academy of Sciences
+Politických vězňů 7
+111 21 Prague 1
+📞 +420 224 005 194, +420 775 379 336
+📧 radim.bohacek@cerge-ei.cz</description></item></channel></rss>

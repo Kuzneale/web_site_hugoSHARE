@@ -1,13 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Přístup k datům :: SHARE-CZ Projekt v České republice</title>
-    <link>http://localhost:1313/data/access/index.html</link>
-    <description>Přístup k datům SHARE Data projektu SHARE jsou volně dostupná (open access) pro vědecké účely.&#xA;Distribuci dat zajišťuje mezinárodní vědecké konsorcium SHARE-ERIC (Survey of Health, Ageing and Retirement in Europe – European Research Infrastructure Consortium) registrovaným uživatelům prostřednictvím SHARE Research Data Center.&#xA;Přístup k datům je bezplatný a podléhá legislativě EU a národním zákonům o ochraně osobních údajů. Data jsou poskytována v souladu s veřejně dostupnými pravidly pro jejich využití.</description>
-    <generator>Hugo</generator>
-    <language>cs</language>
-    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
-    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
-    <atom:link href="http://localhost:1313/data/access/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Přístup k datům :: SHARE-CZ Projekt v České republice</title><link>http://share.cerge-ei.cz/data/access/index.html</link><description>Přístup k datům SHARE Data projektu SHARE jsou volně dostupná (open access) pro vědecké účely.
+Distribuci dat zajišťuje mezinárodní vědecké konsorcium SHARE-ERIC (Survey of Health, Ageing and Retirement in Europe – European Research Infrastructure Consortium) registrovaným uživatelům prostřednictvím SHARE Research Data Center.
+Přístup k datům je bezplatný a podléhá legislativě EU a národním zákonům o ochraně osobních údajů. Data jsou poskytována v souladu s veřejně dostupnými pravidly pro jejich využití.</description><generator>Hugo</generator><language>cs</language><managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor><webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster><atom:link href="http://share.cerge-ei.cz/data/access/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

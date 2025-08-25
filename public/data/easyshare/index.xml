@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>easySHARE :: SHARE-CZ Projekt v České republice</title>
-    <link>http://localhost:1313/data/easyshare/index.html</link>
-    <description>easySHARE (verze 9.0.0)&#xA;easySHARE je zjednodušená verze databáze SHARE, určená především pro výzkumníky a studenty, kteří začínají s analýzou komplexních longitudinálních dat.&#xA;Zatímco hlavní databáze SHARE je rozdělena do desítek souborů podle jednotlivých vln, easySHARE sjednocuje informace o všech respondentech napříč všemi zeměmi a vlnami do jednoho datového souboru.&#xA;Struktura dat je výrazně přehlednější – údaje o respondentech i jejich domácnostech jsou sloučeny napříč všemi vlnami. Chybějící hodnoty jsou jasněji klasifikovány a soubor obsahuje i řadu odvozených proměnných (např. vzdělání dle ISCED, index zdraví, funkční schopnosti, demografie nebo ekonomické ukazatele).</description>
-    <generator>Hugo</generator>
-    <language>cs</language>
-    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
-    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
-    <atom:link href="http://localhost:1313/data/easyshare/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>easySHARE :: SHARE-CZ Projekt v České republice</title><link>http://share.cerge-ei.cz/data/easyshare/index.html</link><description>easySHARE (verze 9.0.0)
+easySHARE je zjednodušená verze databáze SHARE, určená především pro výzkumníky a studenty, kteří začínají s analýzou komplexních longitudinálních dat.
+Zatímco hlavní databáze SHARE je rozdělena do desítek souborů podle jednotlivých vln, easySHARE sjednocuje informace o všech respondentech napříč všemi zeměmi a vlnami do jednoho datového souboru.
+Struktura dat je výrazně přehlednější – údaje o respondentech i jejich domácnostech jsou sloučeny napříč všemi vlnami. Chybějící hodnoty jsou jasněji klasifikovány a soubor obsahuje i řadu odvozených proměnných (např. vzdělání dle ISCED, index zdraví, funkční schopnosti, demografie nebo ekonomické ukazatele).</description><generator>Hugo</generator><language>cs</language><managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor><webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster><atom:link href="http://share.cerge-ei.cz/data/easyshare/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

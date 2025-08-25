@@ -1,13 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Respondents :: SHARE-CZ Project in the Czech Republic</title>
-    <link>http://localhost:1313/en/respondents/index.html</link>
-    <description>SHARE Respondents in the Czech Republic Data Protection &amp; Confidentiality Notice SHARE (Survey of Health, Ageing and Retirement in Europe) is an international scientific study coordinated by the SHARE-ERIC consortium and national partners. In the Czech Republic, the study is implemented by the Czech Academy of Sciences (SHARE-CZ), and fieldwork is conducted by the Prague-based research agency SCaC. All procedures strictly comply with EU and Czech data protection laws.&#xA;The aim of SHARE is to gain a deeper understanding of the lives, health, and social and economic circumstances of individuals aged 50 and above. The collected data supports research and evidence-based policymaking. The Czech SHARE project is funded by the Ministry of Education, Youth and Sports and the European Commission.</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
-    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
-    <atom:link href="http://localhost:1313/en/respondents/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Respondents :: SHARE-CZ Project in the Czech Republic</title><link>http://share.cerge-ei.cz/en/respondents/index.html</link><description>SHARE Respondents in the Czech Republic Data Protection &amp; Confidentiality Notice SHARE (Survey of Health, Ageing and Retirement in Europe) is an international scientific study coordinated by the SHARE-ERIC consortium and national partners. In the Czech Republic, the study is implemented by the Czech Academy of Sciences (SHARE-CZ), and fieldwork is conducted by the Prague-based research agency SCaC. All procedures strictly comply with EU and Czech data protection laws.
+The aim of SHARE is to gain a deeper understanding of the lives, health, and social and economic circumstances of individuals aged 50 and above. The collected data supports research and evidence-based policymaking. The Czech SHARE project is funded by the Ministry of Education, Youth and Sports and the European Commission.</description><generator>Hugo</generator><language>en</language><managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor><webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster><atom:link href="http://share.cerge-ei.cz/en/respondents/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

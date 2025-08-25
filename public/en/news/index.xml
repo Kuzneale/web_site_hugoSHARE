@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>News :: SHARE-CZ Project in the Czech Republic</title>
-    <link>http://localhost:1313/en/news/index.html</link>
-    <description>Wave 10 Data Collection of the SHARE project started The 10th wave of SHARE-ERIC data collection has begun in October and will continue till March 2025. In Wave 10 contains an innovative project neuroSHARE focusing on early detection of Parkinson and Alzheimer diseases. The neuroSHARE project is prepared in cooperation with researchers from the First Faculty of Medicine at the Charles University and the Czech Technical University. The project consists of a speech, sleep and smell tests collected immediately after the main interview. We are very thankful to all respondents and interviewers for their cooperation. More information can be found at websites of SCaC survey agency.</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
-    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
-    <atom:link href="http://localhost:1313/en/news/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News :: SHARE-CZ Project in the Czech Republic</title><link>http://share.cerge-ei.cz/en/news/index.html</link><description>Wave 10 Data Collection of the SHARE project started The 10th wave of SHARE-ERIC data collection has begun in October and will continue till March 2025. In Wave 10 contains an innovative project neuroSHARE focusing on early detection of Parkinson and Alzheimer diseases. The neuroSHARE project is prepared in cooperation with researchers from the First Faculty of Medicine at the Charles University and the Czech Technical University. The project consists of a speech, sleep and smell tests collected immediately after the main interview. We are very thankful to all respondents and interviewers for their cooperation. More information can be found at websites of SCaC survey agency.</description><generator>Hugo</generator><language>en</language><managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor><webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster><atom:link href="http://share.cerge-ei.cz/en/news/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

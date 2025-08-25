@@ -1,41 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Výsledky :: SHARE-CZ Projekt v České republice</title>
-    <link>http://localhost:1313/results/index.html</link>
-    <description>This is a new chapter.</description>
-    <generator>Hugo</generator>
-    <language>cs</language>
-    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
-    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
-    <atom:link href="http://localhost:1313/results/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Uživatelé</title>
-      <link>http://localhost:1313/results/users/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/results/users/index.html</guid>
-      <description>Source https://share.cerge-ei.cz/user_statistics.htm TODO: check content SHARE statistiky uživatelů Aktuální údaje jsou k disposici na oficiálních stránkách projektu.&#xA;Registrovaní uživatelé Publikace registrovaných uživatelů Publikace registrovaných uživatelů</description>
-    </item>
-    <item>
-      <title>Publikace</title>
-      <link>http://localhost:1313/results/publications/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/results/publications/index.html</guid>
-      <description>Source https://share.cerge-ei.cz/publications.htm TODO: check content Publikace Kompletní databáze všech vědeckých publikací, knih, kapitol v knihách, papers, First Result Books, working papers, and jiných publikací založených na datech SHARE jsou na oficiálních stránkách v těchto kategoriích:&#xA;Prosím napište nám o své publikaci na email radim.bohacek@cerge-ei.cz nebo na tento link.&#xA;Prezentace Vybrané prezentace projektu SHARE jsou zde.&#xA;Aktuální Release Guide dat SHARE: ****SHARE Release Guide 9.0.0&#xA;************SHARE Covid19 Survey Release Guide&#xA;************ First Results Books (přehledné výsledky po každé vlně sběru dat) Börsch-Supan, A., J. Bristle, K. Andersen-Ranberg, A. Brugiavini, F. Jusot, H. Litwin, G. Weber (Eds.) (2019). Health and Socio-Economic Status over the Life Course. First Results from SHARE Waves 6 and 7. Berlin: De Gruyter</description>
-    </item>
-    <item>
-      <title>Výsledky</title>
-      <link>http://localhost:1313/results/results/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/results/results/index.html</guid>
-      <description>Source https://share.cerge-ei.cz/selected_results.htm TODO: check content Vybrané výsledky a prezentace Kompletní databáze všech vědeckých publikací, knih, kapitol v knihách, policy papers, First Result Books, working papers, and jiných publikací založených na datech SHARE je na oficiálních stránkách www.share-eric.eu.&#xA;Statistiky uživatelů a publikací jsou zde.&#xA;Zpravodaje SHARE v češtině and angličtině.&#xA;Prezentace Přednáška Demografický vývoj, důchody a péče o seniory (2022) Filip Pertold (pdf)&#xA;Přednáška Multi-mezigenerační mobita ve vzdělání v Evropě (2022) Miroslava Federicova a Filip Pertold (pdf)&#xA;Přednáška Odchod učitelů a jak mu předcházet (2022) Miroslava Federicova (pdf)</description>
-    </item>
-    <item>
-      <title>Zpravodaj</title>
-      <link>http://localhost:1313/results/newsletter/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/results/newsletter/index.html</guid>
-      <description>Source https://share.cerge-ei.cz/newsletter.htm TODO: check content **SHARE-ERIC vydává zpravodaj v anglickém jazyce, který je dostupný zde.&#xA;**&#xA;Zpravodaj SHARE-CZ 2021-1&#xA;**Zpravodaj SHARE-CZ 2020-3&#xA;****Zpravodaj SHARE-CZ 2020-2&#xA;Zpravodaj SHARE-CZ 2020-1&#xA;**&#xA;**Zpravodaj SHARE-CZ 2019-3&#xA;Zpravodaj SHARE-CZ 2019-2&#xA;****Zpravodaj SHARE-CZ 2019-1&#xA;**&#xA;**Zpravodaj SHARE-CZ 2018-3&#xA;Zpravodaj SHARE-CZ 2018-2&#xA;****Zpravodaj SHARE-CZ 2018-1&#xA;**&#xA;**Zpravodaj SHARE-CZ 2017-3&#xA;Zpravodaj SHARE-CZ 2017-2&#xA;****Zpravodaj SHARE-CZ 2017-1&#xA;**&#xA;**Zpravodaj SHARE-CZ 2016-3&#xA;Zpravodaj SHARE-CZ 2016-2&#xA;****Zpravodaj SHARE-CZ 2016-1&#xA;**&#xA;**Zpravodaj SHARE-CZ 2015-2&#xA;****Zpravodaj SHARE-CZ 2015-1&#xA;**</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Výsledky :: SHARE-CZ Projekt v České republice</title><link>http://share.cerge-ei.cz/results/index.html</link><description>This is a new chapter.</description><generator>Hugo</generator><language>cs</language><managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor><webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster><atom:link href="http://share.cerge-ei.cz/results/index.xml" rel="self" type="application/rss+xml"/><item><title>Uživatelé</title><link>http://share.cerge-ei.cz/results/users/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/results/users/index.html</guid><description>Source https://share.cerge-ei.cz/user_statistics.htm TODO: check content SHARE statistiky uživatelů Aktuální údaje jsou k disposici na oficiálních stránkách projektu.
+Registrovaní uživatelé Publikace registrovaných uživatelů Publikace registrovaných uživatelů</description></item><item><title>Publikace</title><link>http://share.cerge-ei.cz/results/publications/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/results/publications/index.html</guid><description>Source https://share.cerge-ei.cz/publications.htm TODO: check content Publikace Kompletní databáze všech vědeckých publikací, knih, kapitol v knihách, papers, First Result Books, working papers, and jiných publikací založených na datech SHARE jsou na oficiálních stránkách v těchto kategoriích:
+Prosím napište nám o své publikaci na email radim.bohacek@cerge-ei.cz nebo na tento link.
+Prezentace Vybrané prezentace projektu SHARE jsou zde.
+Aktuální Release Guide dat SHARE: ****SHARE Release Guide 9.0.0
+************SHARE Covid19 Survey Release Guide
+************ First Results Books (přehledné výsledky po každé vlně sběru dat) Börsch-Supan, A., J. Bristle, K. Andersen-Ranberg, A. Brugiavini, F. Jusot, H. Litwin, G. Weber (Eds.) (2019). Health and Socio-Economic Status over the Life Course. First Results from SHARE Waves 6 and 7. Berlin: De Gruyter</description></item><item><title>Výsledky</title><link>http://share.cerge-ei.cz/results/results/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/results/results/index.html</guid><description>Source https://share.cerge-ei.cz/selected_results.htm TODO: check content Vybrané výsledky a prezentace Kompletní databáze všech vědeckých publikací, knih, kapitol v knihách, policy papers, First Result Books, working papers, and jiných publikací založených na datech SHARE je na oficiálních stránkách www.share-eric.eu.
+Statistiky uživatelů a publikací jsou zde.
+Zpravodaje SHARE v češtině and angličtině.
+Prezentace Přednáška Demografický vývoj, důchody a péče o seniory (2022) Filip Pertold (pdf)
+Přednáška Multi-mezigenerační mobita ve vzdělání v Evropě (2022) Miroslava Federicova a Filip Pertold (pdf)
+Přednáška Odchod učitelů a jak mu předcházet (2022) Miroslava Federicova (pdf)</description></item><item><title>Zpravodaj</title><link>http://share.cerge-ei.cz/results/newsletter/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/results/newsletter/index.html</guid><description>Source https://share.cerge-ei.cz/newsletter.htm TODO: check content **SHARE-ERIC vydává zpravodaj v anglickém jazyce, který je dostupný zde.
+**
+Zpravodaj SHARE-CZ 2021-1
+**Zpravodaj SHARE-CZ 2020-3
+****Zpravodaj SHARE-CZ 2020-2
+Zpravodaj SHARE-CZ 2020-1
+**
+**Zpravodaj SHARE-CZ 2019-3
+Zpravodaj SHARE-CZ 2019-2
+****Zpravodaj SHARE-CZ 2019-1
+**
+**Zpravodaj SHARE-CZ 2018-3
+Zpravodaj SHARE-CZ 2018-2
+****Zpravodaj SHARE-CZ 2018-1
+**
+**Zpravodaj SHARE-CZ 2017-3
+Zpravodaj SHARE-CZ 2017-2
+****Zpravodaj SHARE-CZ 2017-1
+**
+**Zpravodaj SHARE-CZ 2016-3
+Zpravodaj SHARE-CZ 2016-2
+****Zpravodaj SHARE-CZ 2016-1
+**
+**Zpravodaj SHARE-CZ 2015-2
+****Zpravodaj SHARE-CZ 2015-1
+**</description></item></channel></rss>

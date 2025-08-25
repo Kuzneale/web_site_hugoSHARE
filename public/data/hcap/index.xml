@@ -1,13 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>HCAP kognitivní data :: SHARE-CZ Projekt v České republice</title>
-    <link>http://localhost:1313/data/hcap/index.html</link>
-    <description>Harmonizovaný protokol hodnocení kognitivních funkcí&#xA;V rámci projektu je prováděno hloubkové měření kognitivních funkcí podle Harmonizovaného protokolu hodnocení kognitivních funkcí (HCAP), který byl vyvinut pro průzkumy stárnutí typu HRS podporované agenturou NIA. Na základě těchto údajů projekt odhadne míru prevalence mírných a závažných kognitivních poruch v zemích SHARE; porovná je s HRS a dalšími účastníky studií HCAP; a využije mezinárodní variabilitu údajů SHARE plus SHARE-HCAP s cílem zjistit, které interakce biomedicínských a socioekonomických podmínek v průběhu života ovlivňují poznávání v pozdějším věku.</description>
-    <generator>Hugo</generator>
-    <language>cs</language>
-    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
-    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
-    <atom:link href="http://localhost:1313/data/hcap/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HCAP kognitivní data :: SHARE-CZ Projekt v České republice</title><link>http://share.cerge-ei.cz/data/hcap/index.html</link><description>Harmonizovaný protokol hodnocení kognitivních funkcí
+V rámci projektu je prováděno hloubkové měření kognitivních funkcí podle Harmonizovaného protokolu hodnocení kognitivních funkcí (HCAP), který byl vyvinut pro průzkumy stárnutí typu HRS podporované agenturou NIA. Na základě těchto údajů projekt odhadne míru prevalence mírných a závažných kognitivních poruch v zemích SHARE; porovná je s HRS a dalšími účastníky studií HCAP; a využije mezinárodní variabilitu údajů SHARE plus SHARE-HCAP s cílem zjistit, které interakce biomedicínských a socioekonomických podmínek v průběhu života ovlivňují poznávání v pozdějším věku.</description><generator>Hugo</generator><language>cs</language><managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor><webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster><atom:link href="http://share.cerge-ei.cz/data/hcap/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

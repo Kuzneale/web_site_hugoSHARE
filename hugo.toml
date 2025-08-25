@@ -30,10 +30,11 @@ relativeURLs = false # do not enable unless serverless site
   disableNextPrev = false
   editURL = "http://share.cerge-ei.cz/"
 
-  # Search
-  disableSearch = false
-  searchIndexURL = 'omnisearchindex.js'
-  searchPageURL = 'omnisearch'
+  # Search - Updated configuration for Relearn theme v8+
+  [params.search]
+    disable = false
+    searchIndexURL = 'omnisearchindex.js'
+    searchPageURL = 'omnisearch'
 
   # Menu 
   disableLandingPageButton = false

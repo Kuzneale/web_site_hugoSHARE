@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>geoSHARE :: SHARE-CZ Projekt v České republice</title>
-    <link>http://localhost:1313/data/geoshare/index.html</link>
-    <description>Data geoSHARE V současné době zpracováváme data o geografických informacích od všech respondentů v projektu SHARE, včetně dat životní historie, na úrovni NUTS2 a NUTS3. Data budou k dispozici v omezeném přístupu s ohledem na dodržení pravidel GDPR ochrany osobních dat.</description>
-    <generator>Hugo</generator>
-    <language>cs</language>
-    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
-    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
-    <atom:link href="http://localhost:1313/data/geoshare/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>geoSHARE :: SHARE-CZ Projekt v České republice</title><link>http://share.cerge-ei.cz/data/geoshare/index.html</link><description>Data geoSHARE V současné době zpracováváme data o geografických informacích od všech respondentů v projektu SHARE, včetně dat životní historie, na úrovni NUTS2 a NUTS3. Data budou k dispozici v omezeném přístupu s ohledem na dodržení pravidel GDPR ochrany osobních dat.</description><generator>Hugo</generator><language>cs</language><managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor><webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster><atom:link href="http://share.cerge-ei.cz/data/geoshare/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

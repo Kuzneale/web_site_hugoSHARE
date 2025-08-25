@@ -1,104 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Data SHARE :: SHARE-CZ Projekt v České republice</title>
-    <link>http://localhost:1313/data/index.html</link>
-    <description>Přehled dat SHARE Aktuální veřejná verze dat: SHARE Release 9.0.0&#xA;Všechny datasety s DOI registrací jsou dostupné zde:&#xA;🔗 https://share-eric.eu/data/data-documentation&#xA;Přehled vln sběru SHARE je panelové šetření, které probíhá každé dva roky od roku 2004.&#xA;Česká republika se zapojila od druhé vlny v roce 2006.&#xA;Přehled vzorku respondentů Níže je vizualizace počtu respondentů v jednotlivých vlnách.&#xA;Oranžové sloupce: noví (baseline) respondenti Černé sloupce: opakovaní (paneloví) respondenti</description>
-    <generator>Hugo</generator>
-    <language>cs</language>
-    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
-    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
-    <atom:link href="http://localhost:1313/data/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>SHARELIFE životní historie</title>
-      <link>http://localhost:1313/data/sharelife/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/data/sharelife/index.html</guid>
-      <description>Doplnit</description>
-    </item>
-    <item>
-      <title>HCAP kognitivní data</title>
-      <link>http://localhost:1313/data/hcap/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/data/hcap/index.html</guid>
-      <description>Harmonizovaný protokol hodnocení kognitivních funkcí&#xA;V rámci projektu je prováděno hloubkové měření kognitivních funkcí podle Harmonizovaného protokolu hodnocení kognitivních funkcí (HCAP), který byl vyvinut pro průzkumy stárnutí typu HRS podporované agenturou NIA. Na základě těchto údajů projekt odhadne míru prevalence mírných a závažných kognitivních poruch v zemích SHARE; porovná je s HRS a dalšími účastníky studií HCAP; a využije mezinárodní variabilitu údajů SHARE plus SHARE-HCAP s cílem zjistit, které interakce biomedicínských a socioekonomických podmínek v průběhu života ovlivňují poznávání v pozdějším věku.</description>
-    </item>
-    <item>
-      <title>geoSHARE</title>
-      <link>http://localhost:1313/data/geoshare/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/data/geoshare/index.html</guid>
-      <description>Data geoSHARE V současné době zpracováváme data o geografických informacích od všech respondentů v projektu SHARE, včetně dat životní historie, na úrovni NUTS2 a NUTS3. Data budou k dispozici v omezeném přístupu s ohledem na dodržení pravidel GDPR ochrany osobních dat.</description>
-    </item>
-    <item>
-      <title>Přístup k datům</title>
-      <link>http://localhost:1313/data/access/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/data/access/index.html</guid>
-      <description>Přístup k datům SHARE Data projektu SHARE jsou volně dostupná (open access) pro vědecké účely.&#xA;Distribuci dat zajišťuje mezinárodní vědecké konsorcium SHARE-ERIC (Survey of Health, Ageing and Retirement in Europe – European Research Infrastructure Consortium) registrovaným uživatelům prostřednictvím SHARE Research Data Center.&#xA;Přístup k datům je bezplatný a podléhá legislativě EU a národním zákonům o ochraně osobních údajů. Data jsou poskytována v souladu s veřejně dostupnými pravidly pro jejich využití.</description>
-    </item>
-    <item>
-      <title>Národní modul</title>
-      <link>http://localhost:1313/data/national_module/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/data/national_module/index.html</guid>
-      <description>Národní písemný dotazník (drop-off) v 9. vlně sběru dat Projekt SHARE je plně harmonizován s obdobnými výzkumy v USA (HRS), Velké Británii (ELSA) a novými iniciativami v Číně, Japonsku, Indii a dalších zemích. Součástí hlavního šetření je také národní písemný dotazník – tzv. drop-off, který jednotlivým zemím umožňuje zařadit vlastní otázky. Ty nemusí být harmonizovány s ostatními zeměmi, a tedy umožňují zaměřit se na lokálně důležitá témata nebo realizovat field experiments, které by v mezinárodním kontextu nedávaly smysl.</description>
-    </item>
-    <item>
-      <title>neuroSHARE</title>
-      <link>http://localhost:1313/data/neuroshare/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/data/neuroshare/index.html</guid>
-      <description>Doplnit</description>
-    </item>
-    <item>
-      <title>bioSHARE biomarkery</title>
-      <link>http://localhost:1313/data/bioshare/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/data/bioshare/index.html</guid>
-      <description>Sběr biomarkerů v 10. vlně projektu SHARE v České republice Bude doplněno včas.&#xA;Studie akcelerometrie ve vlně 8 v České republice V 8. vlně studie SHARE byly údaje o fyzické aktivitě shromažďovány pomocí akcelerometrů. Dílčí vzorek respondentů panelu byl požádán, aby nosil zařízení (Axivity AX3) po dobu osmi po sobě jdoucích dnů (ve dne i v noci) na horní části stehna.&#xA;Studie SHARE s akcelerometry byla provedena v deseti zemích: Belgie, Česká republika, Dánsko, Francie, Itálie, Německo, Polsko, Slovinsko, Španělsko, Švédsko. Podrobný popis studie je k dispozici ve svazku SHARE Wave 8 Methodology Volume. Data z akcelerometru jsou zpracována pomocí GGIR a výsledná měření jsou k dispozici v modulech gv_accelerometer vlny 8. Poskytované metriky zahrnují vektorovou magnitudu (ENMO), gradient intenzity a míry LXMX. Další datové sady poskytují informace o zrychlení na úrovni epoch (5 sekund) pro každého účastníka.</description>
-    </item>
-    <item>
-      <title>Dotazníky</title>
-      <link>http://localhost:1313/data/questionnaires/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/data/questionnaires/index.html</guid>
-      <description>Dotazníky projektu SHARE Harmonizované dotazníky Kompletní přehled harmonizovaných dotazníků (CAPI coverscreen, hlavní CAPI dotazník, Showcards, Vignettes, End-of-life dotazník) pro všechny zapojené země a ve všech jazykových verzích naleznete na:&#xA;🔗 oficiálních stránkách projektu&#xA;Codebooky pro Českou republiku Vlna 2 Vlna 3 Vlna 4 Vlna 5 Vlna 6 Vlna 7 Vlna 8 STATA do-files pro codebooky jsou dostupné ke stažení zde&#xA;Speciální dotazníky SHARE v České republice COVID-19 dotazníky CATI1 – jaro 2020: CZ | EN CATI-CZ – podzim 2020: CZ | EN CATI2 – jaro 2021: CZ / EN (v přípravě) Národní písemné dotazníky (Drop-off) v ČR Vlna 5 A (v důchodu): CZ | EN B (není v důchodu): CZ | EN Vlna 6 CZ | EN Vlna 7 A (v důchodu): CZ | EN B (není v důchodu): CZ | EN Vlna 8 CZ | EN Vlna 9 Info 0: CZ | EN Info 1: CZ | EN Codebooky k národním dotazníkům Vlna 5: Codebook drop-off Vlna 6: Codebook drop-off Vlna 7: Codebook drop-off 🔧 STATA do-files k těmto codebookům jsou dostupné zde</description>
-    </item>
-    <item>
-      <title>easySHARE</title>
-      <link>http://localhost:1313/data/easyshare/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/data/easyshare/index.html</guid>
-      <description>easySHARE (verze 9.0.0)&#xA;easySHARE je zjednodušená verze databáze SHARE, určená především pro výzkumníky a studenty, kteří začínají s analýzou komplexních longitudinálních dat.&#xA;Zatímco hlavní databáze SHARE je rozdělena do desítek souborů podle jednotlivých vln, easySHARE sjednocuje informace o všech respondentech napříč všemi zeměmi a vlnami do jednoho datového souboru.&#xA;Struktura dat je výrazně přehlednější – údaje o respondentech i jejich domácnostech jsou sloučeny napříč všemi vlnami. Chybějící hodnoty jsou jasněji klasifikovány a soubor obsahuje i řadu odvozených proměnných (např. vzdělání dle ISCED, index zdraví, funkční schopnosti, demografie nebo ekonomické ukazatele).</description>
-    </item>
-    <item>
-      <title>abmSHARE</title>
-      <link>http://localhost:1313/data/abmshare/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/data/abmshare/index.html</guid>
-      <description>Epidemiologický model abmSHARE Ve spolupráci s Fakultou biomedicínského inženýrství ČVUT a společností DNAi s.r.o. jsme vyvinuli agentní epidemiologický model (agent-based epidemiologic model) s názvem abmSHARE.&#xA;Tento model využívá jako vstupní data jak informace z projektu SHARE, tak také údaje z Eurostatu, nebo z jiných externích zdrojů, a to v geografickém členění podle úrovně NUTS2.&#xA;Cílem modelu je simulovat šíření a dopady onemocnění Covid-19 a podobných epidemiologických scénářů.&#xA;Dokumentace modelu je v zájmu propojení s podobnými modely (Covasim) v anglickém jazyce na naších stránkách abmSHARE Documentation</description>
-    </item>
-    <item>
-      <title>SHARE Covid-19</title>
-      <link>http://localhost:1313/data/covid/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/data/covid/index.html</guid>
-      <description>Projekt SHARE-Covid19 SHARE sbírá dva speciální sběry dat na téma Covid19, oba v telefonním CATI módu. První sběr dat se uskutečnil v červnu až srpnu 2020, druhý CATI se uskutečnil v létě 2021.&#xA;Navíc v České republice se realizoval sběr dat CATI-CZ Covid19 v říjnu až prosinci 2020.&#xA;Všechny tři sběry dat mají panelovou strukturu s opakovanými otázkami pro zachycení změn v životech našich respondentů během pandemie. Všechna CATI Covid19 data jsou napojena na hlavní longitudinální data projektu SHARE.</description>
-    </item>
-    <item>
-      <title>Interaktivní databáze</title>
-      <link>http://localhost:1313/data/interactive/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/data/interactive/index.html</guid>
-      <description>Interaktivní nástroj pro data a dokumentaci&#xA;Nástroj SHARE Data &amp; Documentation Tool je webová aplikace vyvinutá organizací CentERdata (Institut pro sběr a analýzu dat) ve spolupráci s centrálním týmem SHARE na Munich Center for the Economics of Aging (MEA). Tento nástroj je určen zejména pro výzkumníky jako rychlé, přizpůsobitelné a uživatelsky přívětivé rozhraní pro prohlížení a vyhledávání v datech (a metadatech) projektu SHARE.&#xA;Jednou z hlavních funkcí je možnost vygenerovat codebooky (datové dokumentace) pro všechny aktuálně dostupné vlny a moduly projektu SHARE ve formátu PDF. To výzkumníkům umožňuje získat první přehled o obsahu dat a počtech případů bez nutnosti stahovat samotná data.</description>
-    </item>
-    <item>
-      <title>SPLASH</title>
-      <link>http://localhost:1313/data/splash/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author>
-      <guid>http://localhost:1313/data/splash/index.html</guid>
-      <description>Archiv sociální politiky pro SHARE (SPLASH) Archiv sociální politiky pro SHARE (SPLASH) poskytuje potřebné makro a kontextové údaje (např. o politickém, ekonomickém a společenském prostředí), které usnadňují srovnávací analýzy sociální politiky v prostoru a čase s využitím SHARE a dalších zdrojů mikrodat.&#xA;Webové stránky projektu SPLASH jsou dostupné zde.&#xA;Dokumentace projektu je přístupná zde.&#xA;Konkrétně sekce Data poskytuje přístup ke kontextovým kvantitativním ukazatelům založeným na oficiálních statistikách a výsledcích výzkumu. V sekci Policy získají uživatelé přístup ke standardizovaným informacím o změnách politik a jejich právních podkladech v průběhu času; záznamy byly sestaveny z databáze Population and Policy Database (PPD) a databáze Population Europe Resource Finder and Archive (PERFAR), která byla naposledy aktualizována v roce 2016.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data SHARE :: SHARE-CZ Projekt v České republice</title><link>http://share.cerge-ei.cz/data/index.html</link><description>Přehled dat SHARE Aktuální veřejná verze dat: SHARE Release 9.0.0
+Všechny datasety s DOI registrací jsou dostupné zde:
+🔗 https://share-eric.eu/data/data-documentation
+Přehled vln sběru SHARE je panelové šetření, které probíhá každé dva roky od roku 2004.
+Česká republika se zapojila od druhé vlny v roce 2006.
+Přehled vzorku respondentů Níže je vizualizace počtu respondentů v jednotlivých vlnách.
+Oranžové sloupce: noví (baseline) respondenti Černé sloupce: opakovaní (paneloví) respondenti</description><generator>Hugo</generator><language>cs</language><managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor><webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster><atom:link href="http://share.cerge-ei.cz/data/index.xml" rel="self" type="application/rss+xml"/><item><title>SHARELIFE životní historie</title><link>http://share.cerge-ei.cz/data/sharelife/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/data/sharelife/index.html</guid><description>Doplnit</description></item><item><title>HCAP kognitivní data</title><link>http://share.cerge-ei.cz/data/hcap/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/data/hcap/index.html</guid><description>Harmonizovaný protokol hodnocení kognitivních funkcí
+V rámci projektu je prováděno hloubkové měření kognitivních funkcí podle Harmonizovaného protokolu hodnocení kognitivních funkcí (HCAP), který byl vyvinut pro průzkumy stárnutí typu HRS podporované agenturou NIA. Na základě těchto údajů projekt odhadne míru prevalence mírných a závažných kognitivních poruch v zemích SHARE; porovná je s HRS a dalšími účastníky studií HCAP; a využije mezinárodní variabilitu údajů SHARE plus SHARE-HCAP s cílem zjistit, které interakce biomedicínských a socioekonomických podmínek v průběhu života ovlivňují poznávání v pozdějším věku.</description></item><item><title>geoSHARE</title><link>http://share.cerge-ei.cz/data/geoshare/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/data/geoshare/index.html</guid><description>Data geoSHARE V současné době zpracováváme data o geografických informacích od všech respondentů v projektu SHARE, včetně dat životní historie, na úrovni NUTS2 a NUTS3. Data budou k dispozici v omezeném přístupu s ohledem na dodržení pravidel GDPR ochrany osobních dat.</description></item><item><title>Přístup k datům</title><link>http://share.cerge-ei.cz/data/access/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/data/access/index.html</guid><description>Přístup k datům SHARE Data projektu SHARE jsou volně dostupná (open access) pro vědecké účely.
+Distribuci dat zajišťuje mezinárodní vědecké konsorcium SHARE-ERIC (Survey of Health, Ageing and Retirement in Europe – European Research Infrastructure Consortium) registrovaným uživatelům prostřednictvím SHARE Research Data Center.
+Přístup k datům je bezplatný a podléhá legislativě EU a národním zákonům o ochraně osobních údajů. Data jsou poskytována v souladu s veřejně dostupnými pravidly pro jejich využití.</description></item><item><title>Národní modul</title><link>http://share.cerge-ei.cz/data/national_module/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/data/national_module/index.html</guid><description>Národní písemný dotazník (drop-off) v 9. vlně sběru dat Projekt SHARE je plně harmonizován s obdobnými výzkumy v USA (HRS), Velké Británii (ELSA) a novými iniciativami v Číně, Japonsku, Indii a dalších zemích. Součástí hlavního šetření je také národní písemný dotazník – tzv. drop-off, který jednotlivým zemím umožňuje zařadit vlastní otázky. Ty nemusí být harmonizovány s ostatními zeměmi, a tedy umožňují zaměřit se na lokálně důležitá témata nebo realizovat field experiments, které by v mezinárodním kontextu nedávaly smysl.</description></item><item><title>neuroSHARE</title><link>http://share.cerge-ei.cz/data/neuroshare/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/data/neuroshare/index.html</guid><description>Doplnit</description></item><item><title>bioSHARE biomarkery</title><link>http://share.cerge-ei.cz/data/bioshare/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/data/bioshare/index.html</guid><description>Sběr biomarkerů v 10. vlně projektu SHARE v České republice Bude doplněno včas.
+Studie akcelerometrie ve vlně 8 v České republice V 8. vlně studie SHARE byly údaje o fyzické aktivitě shromažďovány pomocí akcelerometrů. Dílčí vzorek respondentů panelu byl požádán, aby nosil zařízení (Axivity AX3) po dobu osmi po sobě jdoucích dnů (ve dne i v noci) na horní části stehna.
+Studie SHARE s akcelerometry byla provedena v deseti zemích: Belgie, Česká republika, Dánsko, Francie, Itálie, Německo, Polsko, Slovinsko, Španělsko, Švédsko. Podrobný popis studie je k dispozici ve svazku SHARE Wave 8 Methodology Volume. Data z akcelerometru jsou zpracována pomocí GGIR a výsledná měření jsou k dispozici v modulech gv_accelerometer vlny 8. Poskytované metriky zahrnují vektorovou magnitudu (ENMO), gradient intenzity a míry LXMX. Další datové sady poskytují informace o zrychlení na úrovni epoch (5 sekund) pro každého účastníka.</description></item><item><title>Dotazníky</title><link>http://share.cerge-ei.cz/data/questionnaires/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/data/questionnaires/index.html</guid><description>Dotazníky projektu SHARE Harmonizované dotazníky Kompletní přehled harmonizovaných dotazníků (CAPI coverscreen, hlavní CAPI dotazník, Showcards, Vignettes, End-of-life dotazník) pro všechny zapojené země a ve všech jazykových verzích naleznete na:
+🔗 oficiálních stránkách projektu
+Codebooky pro Českou republiku Vlna 2 Vlna 3 Vlna 4 Vlna 5 Vlna 6 Vlna 7 Vlna 8 STATA do-files pro codebooky jsou dostupné ke stažení zde
+Speciální dotazníky SHARE v České republice COVID-19 dotazníky CATI1 – jaro 2020: CZ | EN CATI-CZ – podzim 2020: CZ | EN CATI2 – jaro 2021: CZ / EN (v přípravě) Národní písemné dotazníky (Drop-off) v ČR Vlna 5 A (v důchodu): CZ | EN B (není v důchodu): CZ | EN Vlna 6 CZ | EN Vlna 7 A (v důchodu): CZ | EN B (není v důchodu): CZ | EN Vlna 8 CZ | EN Vlna 9 Info 0: CZ | EN Info 1: CZ | EN Codebooky k národním dotazníkům Vlna 5: Codebook drop-off Vlna 6: Codebook drop-off Vlna 7: Codebook drop-off 🔧 STATA do-files k těmto codebookům jsou dostupné zde</description></item><item><title>easySHARE</title><link>http://share.cerge-ei.cz/data/easyshare/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/data/easyshare/index.html</guid><description>easySHARE (verze 9.0.0)
+easySHARE je zjednodušená verze databáze SHARE, určená především pro výzkumníky a studenty, kteří začínají s analýzou komplexních longitudinálních dat.
+Zatímco hlavní databáze SHARE je rozdělena do desítek souborů podle jednotlivých vln, easySHARE sjednocuje informace o všech respondentech napříč všemi zeměmi a vlnami do jednoho datového souboru.
+Struktura dat je výrazně přehlednější – údaje o respondentech i jejich domácnostech jsou sloučeny napříč všemi vlnami. Chybějící hodnoty jsou jasněji klasifikovány a soubor obsahuje i řadu odvozených proměnných (např. vzdělání dle ISCED, index zdraví, funkční schopnosti, demografie nebo ekonomické ukazatele).</description></item><item><title>abmSHARE</title><link>http://share.cerge-ei.cz/data/abmshare/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/data/abmshare/index.html</guid><description>Epidemiologický model abmSHARE Ve spolupráci s Fakultou biomedicínského inženýrství ČVUT a společností DNAi s.r.o. jsme vyvinuli agentní epidemiologický model (agent-based epidemiologic model) s názvem abmSHARE.
+Tento model využívá jako vstupní data jak informace z projektu SHARE, tak také údaje z Eurostatu, nebo z jiných externích zdrojů, a to v geografickém členění podle úrovně NUTS2.
+Cílem modelu je simulovat šíření a dopady onemocnění Covid-19 a podobných epidemiologických scénářů.
+Dokumentace modelu je v zájmu propojení s podobnými modely (Covasim) v anglickém jazyce na naších stránkách abmSHARE Documentation</description></item><item><title>SHARE Covid-19</title><link>http://share.cerge-ei.cz/data/covid/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/data/covid/index.html</guid><description>Projekt SHARE-Covid19 SHARE sbírá dva speciální sběry dat na téma Covid19, oba v telefonním CATI módu. První sběr dat se uskutečnil v červnu až srpnu 2020, druhý CATI se uskutečnil v létě 2021.
+Navíc v České republice se realizoval sběr dat CATI-CZ Covid19 v říjnu až prosinci 2020.
+Všechny tři sběry dat mají panelovou strukturu s opakovanými otázkami pro zachycení změn v životech našich respondentů během pandemie. Všechna CATI Covid19 data jsou napojena na hlavní longitudinální data projektu SHARE.</description></item><item><title>Interaktivní databáze</title><link>http://share.cerge-ei.cz/data/interactive/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/data/interactive/index.html</guid><description>Interaktivní nástroj pro data a dokumentaci
+Nástroj SHARE Data &amp; Documentation Tool je webová aplikace vyvinutá organizací CentERdata (Institut pro sběr a analýzu dat) ve spolupráci s centrálním týmem SHARE na Munich Center for the Economics of Aging (MEA). Tento nástroj je určen zejména pro výzkumníky jako rychlé, přizpůsobitelné a uživatelsky přívětivé rozhraní pro prohlížení a vyhledávání v datech (a metadatech) projektu SHARE.
+Jednou z hlavních funkcí je možnost vygenerovat codebooky (datové dokumentace) pro všechny aktuálně dostupné vlny a moduly projektu SHARE ve formátu PDF. To výzkumníkům umožňuje získat první přehled o obsahu dat a počtech případů bez nutnosti stahovat samotná data.</description></item><item><title>SPLASH</title><link>http://share.cerge-ei.cz/data/splash/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>radim.bohacek@cerge-ei.cz (Radim Bohacek)</author><guid>http://share.cerge-ei.cz/data/splash/index.html</guid><description>Archiv sociální politiky pro SHARE (SPLASH) Archiv sociální politiky pro SHARE (SPLASH) poskytuje potřebné makro a kontextové údaje (např. o politickém, ekonomickém a společenském prostředí), které usnadňují srovnávací analýzy sociální politiky v prostoru a čase s využitím SHARE a dalších zdrojů mikrodat.
+Webové stránky projektu SPLASH jsou dostupné zde.
+Dokumentace projektu je přístupná zde.
+Konkrétně sekce Data poskytuje přístup ke kontextovým kvantitativním ukazatelům založeným na oficiálních statistikách a výsledcích výzkumu. V sekci Policy získají uživatelé přístup ke standardizovaným informacím o změnách politik a jejich právních podkladech v průběhu času; záznamy byly sestaveny z databáze Population and Policy Database (PPD) a databáze Population Europe Resource Finder and Archive (PERFAR), která byla naposledy aktualizována v roce 2016.</description></item></channel></rss>

@@ -1,13 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Programs :: SHARE-CZ Project in the Czech Republic</title>
-    <link>http://localhost:1313/en/programs/index.html</link>
-    <description>STATA, SPSS and R Program Codes for Working with SHARE Data Downloading and Directory Setup All codes are available for download with the .txt extension to ensure proper downloading.&#xA;Save them with the appropriate extension: .do (STATA), .R (R), .sps (SPSS).&#xA;You must adjust the directory path in each script to match where your data are stored.&#xA;Original example:&#xA;global datadir &#34;d:\work\sharew5_rel1-0-0&#34; Your own directory:&#xA;global datadir &#34;c:\soubory\SHARE\moje_data&#34; Training Materials Mendel University – Presentation (PDF) Mendel University – SPSS Syntax STATA easySHARE Program for easySHARE Detailed guide (working paper, PDF) Codebooks by Wave Vlna 2 Vlna 3 Vlna 4 Vlna 5 Vlna 6 Vlna 7 Vlna 8 (CATI1) Merging Modules and Waves Vlna 1 Vlna 2 Vlna 3 Vlna 4 Vlna 5 Vlna 6 (CZ) Vlna 7 (CZ) Vlna 8 (CATI1, CZ) Spojení vln 1-5 (všechny země) Spojení vln 2-7 (CZ) STATA Code for the Article “Teacher Turnover” Miroslava Federičová, CERGE-EI</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
-    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
-    <atom:link href="http://localhost:1313/en/programs/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Programs :: SHARE-CZ Project in the Czech Republic</title><link>http://share.cerge-ei.cz/en/programs/index.html</link><description>STATA, SPSS and R Program Codes for Working with SHARE Data Downloading and Directory Setup All codes are available for download with the .txt extension to ensure proper downloading.
+Save them with the appropriate extension: .do (STATA), .R (R), .sps (SPSS).
+You must adjust the directory path in each script to match where your data are stored.
+Original example:
+global datadir "d:\work\sharew5_rel1-0-0" Your own directory:
+global datadir "c:\soubory\SHARE\moje_data" Training Materials Mendel University – Presentation (PDF) Mendel University – SPSS Syntax STATA easySHARE Program for easySHARE Detailed guide (working paper, PDF) Codebooks by Wave Vlna 2 Vlna 3 Vlna 4 Vlna 5 Vlna 6 Vlna 7 Vlna 8 (CATI1) Merging Modules and Waves Vlna 1 Vlna 2 Vlna 3 Vlna 4 Vlna 5 Vlna 6 (CZ) Vlna 7 (CZ) Vlna 8 (CATI1, CZ) Spojení vln 1-5 (všechny země) Spojení vln 2-7 (CZ) STATA Code for the Article “Teacher Turnover” Miroslava Federičová, CERGE-EI</description><generator>Hugo</generator><language>en</language><managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor><webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster><atom:link href="http://share.cerge-ei.cz/en/programs/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

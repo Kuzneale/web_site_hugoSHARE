@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kontakt :: SHARE-CZ Projekt v České republice</title>
-    <link>http://localhost:1313/contact/index.html</link>
-    <description>Kontakty a tým SHARE v České republice Pokud potřebujete jakékoliv informace, konzultaci s českým nebo mezinárodním týmem SHARE, pomoc s registrací, stažením dat či jinou formou podpory, neváhejte nás kontaktovat. Předem děkujeme za Váš zájem a spolupráci.&#xA;Koordinátor SHARE v ČR Radim Boháček, Ph.D.&#xA;SHARE-CZ&#xA;Ekonomický ústav AV ČR&#xA;Politických vězňů 7&#xA;111 21 Praha 1&#xA;📞 224 005 194, 775 379 336&#xA;📧 radim.bohacek@cerge-ei.cz&#xA;Tým SHARE v České republice Radim Boháček Jan Kroupa Filip Pertold Miroslava Federičová Projekt HCAP (Harmonized Cognition Assessment Protocol) Tereza Rošíková&#xA;CERGE-EI a Všeobecná fakultní nemocnice v Praze (VFN UK)</description>
-    <generator>Hugo</generator>
-    <language>cs</language>
-    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
-    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
-    <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kontakt :: SHARE-CZ Projekt v České republice</title><link>http://share.cerge-ei.cz/contact/index.html</link><description>Kontakty a tým SHARE v České republice Pokud potřebujete jakékoliv informace, konzultaci s českým nebo mezinárodním týmem SHARE, pomoc s registrací, stažením dat či jinou formou podpory, neváhejte nás kontaktovat. Předem děkujeme za Váš zájem a spolupráci.
+Koordinátor SHARE v ČR Radim Boháček, Ph.D.
+SHARE-CZ
+Ekonomický ústav AV ČR
+Politických vězňů 7
+111 21 Praha 1
+📞 224 005 194, 775 379 336
+📧 radim.bohacek@cerge-ei.cz
+Tým SHARE v České republice Radim Boháček Jan Kroupa Filip Pertold Miroslava Federičová Projekt HCAP (Harmonized Cognition Assessment Protocol) Tereza Rošíková
+CERGE-EI a Všeobecná fakultní nemocnice v Praze (VFN UK)</description><generator>Hugo</generator><language>cs</language><managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor><webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster><atom:link href="http://share.cerge-ei.cz/contact/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

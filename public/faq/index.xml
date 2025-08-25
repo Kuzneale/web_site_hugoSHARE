@@ -1,13 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>FAQ k projektu SHARE :: SHARE-CZ Projekt v České republice</title>
-    <link>http://localhost:1313/faq/index.html</link>
-    <description>Odpovědi na časté otázky o projektu a datech SHARE Podrobné odpovědi na časté otázky týkající se projektu a dat SHARE naleznete v angličtině na oficiálních stránkách.&#xA;Níže uvádíme pouze nejdůležitější základní informace.&#xA;1. Co je SHARE? SHARE (Survey of Health, Ageing and Retirement in Europe) je mezinárodní multidisciplinární longitudinální databáze (tj. sleduje stejné osoby v čase, každé dva roky). Nabízí mikrodata o zdraví, socioekonomickém postavení a rodinných a sociálních sítích více než 140 000 osob starších 50 let.</description>
-    <generator>Hugo</generator>
-    <language>cs</language>
-    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
-    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
-    <atom:link href="http://localhost:1313/faq/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FAQ k projektu SHARE :: SHARE-CZ Projekt v České republice</title><link>http://share.cerge-ei.cz/faq/index.html</link><description>Odpovědi na časté otázky o projektu a datech SHARE Podrobné odpovědi na časté otázky týkající se projektu a dat SHARE naleznete v angličtině na oficiálních stránkách.
+Níže uvádíme pouze nejdůležitější základní informace.
+1. Co je SHARE? SHARE (Survey of Health, Ageing and Retirement in Europe) je mezinárodní multidisciplinární longitudinální databáze (tj. sleduje stejné osoby v čase, každé dva roky). Nabízí mikrodata o zdraví, socioekonomickém postavení a rodinných a sociálních sítích více než 140 000 osob starších 50 let.</description><generator>Hugo</generator><language>cs</language><managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor><webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster><atom:link href="http://share.cerge-ei.cz/faq/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

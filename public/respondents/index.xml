@@ -1,13 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pro respondenty :: SHARE-CZ Projekt v České republice</title>
-    <link>http://localhost:1313/respondents/index.html</link>
-    <description>Respondenti projektu SHARE v České republice Prohlášení o ochraně osobních údajů a důvěrnosti Projekt SHARE (Survey of Health, Ageing and Retirement in Europe) je mezinárodní vědecká studie, kterou koordinuje konsorcium SHARE-ERIC ve spolupráci s národními vědeckými partnery. V České republice je národním garantem studie Akademie věd ČR (SHARE-CZ). Terénní šetření provádí agentura SCaC se sídlem v Praze. Všechny zúčastněné organizace dodržují platné zákony na ochranu osobních údajů.&#xA;Cílem projektu je pomoci vědcům lépe porozumět životům, zdraví a sociálně-ekonomické situaci lidí ve věku 50 a více let a jejich rodin. Shromážděná data slouží vědeckému výzkumu a k tvorbě veřejných politik. Česká část studie je financována Ministerstvem školství, mládeže a tělovýchovy ČR a Evropskou komisí.</description>
-    <generator>Hugo</generator>
-    <language>cs</language>
-    <managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor>
-    <webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster>
-    <atom:link href="http://localhost:1313/respondents/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pro respondenty :: SHARE-CZ Projekt v České republice</title><link>http://share.cerge-ei.cz/respondents/index.html</link><description>Respondenti projektu SHARE v České republice Prohlášení o ochraně osobních údajů a důvěrnosti Projekt SHARE (Survey of Health, Ageing and Retirement in Europe) je mezinárodní vědecká studie, kterou koordinuje konsorcium SHARE-ERIC ve spolupráci s národními vědeckými partnery. V České republice je národním garantem studie Akademie věd ČR (SHARE-CZ). Terénní šetření provádí agentura SCaC se sídlem v Praze. Všechny zúčastněné organizace dodržují platné zákony na ochranu osobních údajů.
+Cílem projektu je pomoci vědcům lépe porozumět životům, zdraví a sociálně-ekonomické situaci lidí ve věku 50 a více let a jejich rodin. Shromážděná data slouží vědeckému výzkumu a k tvorbě veřejných politik. Česká část studie je financována Ministerstvem školství, mládeže a tělovýchovy ČR a Evropskou komisí.</description><generator>Hugo</generator><language>cs</language><managingEditor>radim.bohacek@cerge-ei.cz (Radim Bohacek)</managingEditor><webMaster>radim.bohacek@cerge-ei.cz (Radim Bohacek)</webMaster><atom:link href="http://share.cerge-ei.cz/respondents/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
